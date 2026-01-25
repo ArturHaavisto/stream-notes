@@ -80,9 +80,22 @@
               "icon": "lucide-file",
               "title": "LinkedIn"
             }
+          },
+          {
+            "id": "ddd6772bd345f212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ToDo"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.50043487548828
   },
   "right": {
     "id": "208e5a54d8aef1a0",
@@ -249,18 +262,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "758ae857fb4c1c8f",
+  "active": "5a9f86606a70df90",
   "lastOpenFiles": [
-    "Output/LinkedIn.md",
     "large-canvas.excalidraw",
+    "ToDo.md",
     "Youtube Stream notes/Stream 35.md",
+    "Output/LinkedIn.md",
+    "From personal.md",
     "AI/ai-notes.md",
     "Tools/Tool-notes.md",
     "Programming/Programming notes.md",
     "Communication.md",
     "AI/docs/AI Coding Agents_ A Comparative Analysis.pdf",
     "Youtube Stream notes/Stream 34.md",
-    "ToDo.md",
     "Draw.md",
     "English.md",
     "Youtube Stream notes/Stream 33.md",
@@ -275,7 +289,6 @@
     "Research/Politics notes.md",
     "Output",
     "Youtube Stream notes/Stream 28.md",
-    "From personal.md",
     "Research/Effective Altruism.md",
     "Youtube Stream notes/Stream 26.md",
     "Youtube Stream notes/Stream 27.md",
