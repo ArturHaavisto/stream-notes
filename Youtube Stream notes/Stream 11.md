@@ -1,0 +1,2 @@
+- Update time script system
+- Simplifying life

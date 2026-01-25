@@ -1,0 +1,11 @@
+![](https://www.youtube.com/embed/bTFnKdMtcZM?si=yXByGwTzLuptbYGj)
+- Website: move away from obsidian and towards self-hosting
+- Obsidian file structure
+- Create new thumbnails and start to change them for each live/video
+- Figuring out custom obsidian file sorting
+- Learning about markdown features like tables
+- Transferring schedules and todos from whiteboard to obsidian pages
+- Coming up with todos
+- Talking about Ajarak and self-improvement plan
+- Controlling oneself by changing the environment
+- Making a new thumbnail for this stream

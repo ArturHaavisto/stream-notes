@@ -1,0 +1,3 @@
+- Contemporary
+- utility
+- ratified

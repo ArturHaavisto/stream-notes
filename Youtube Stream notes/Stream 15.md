@@ -1,0 +1,8 @@
+- Edit stream 14 thumbnail, title
+- Research webhosting services
+- Setup azure
+- Create firefox profiles
+- Create quick website
+- Finish azure setup and get the website running
+- Do correct tailwindcss setup
+- Create an icon for the website

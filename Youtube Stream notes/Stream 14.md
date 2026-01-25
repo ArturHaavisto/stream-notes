@@ -1,0 +1,4 @@
+- Going over large aspects of my life
+- Talking about my pc monitor setup using quest 3
+- Improving stream layout by adding a text
+- Improving the website's front page

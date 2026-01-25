@@ -1,0 +1,46 @@
+- How I stream?
+	- I yap too much.
+	- What to change:
+		- Focus less on talking/teaching
+- How I learn?
+	- I don't have a clear enough goal when trying to learn
+	- I go too deep into the topic without coming back. I loose control
+	- What to change:
+		- Instead of focusing primarily on the topic itself, focus on the control
+			- Large plan/goal
+			- Sub goals
+			- First glance
+			- Ask questions
+				- How do I reach the goal?
+				- Should I use some other source/tool?
+			- Feynman technique
+				- Can I teach what I just learned?
+				- Create a scenario where someone asks or expects my answer
+		- Mindset from doing the minimum to doing what I want
+			- Minimum = killing time
+				- Who/What am I waiting?
+					- I'm waiting to die
+- Ajarak
+	- (A visual imaginary structure inside my head that I use to build knowledge to easier create higher level thoughts and to remember better.)
+	- I forget to use it
+		- Using it requires consciousness
+	- How much energy it consumes. How difficult it feels.
+		- Example: In 10 minutes, create a speech.
+	- Is there any reason ever not to open/use it
+		- I will feel tired
+			- Is there a way to fix this? Make it easier to use?
+				- Maybe
+		- What could be a reason to use it that I can always use?
+- AI
+	- How do use AI currently?
+	- What could I think at the moment being the ultimate way to leverage AI. Also in the future.
+		- Asking about anything in a separate window
+			- conversations are saved
+			- no difficulties navigating, always goes back to ready to write
+				- browser is bad
+				- cli best
+			- needs to be open at all times
+		- Ask quick questions where I don't care about the history
+			- use separately from separate window
+			- also a separate window
+		- Having a constant conversation on

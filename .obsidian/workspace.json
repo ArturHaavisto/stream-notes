@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "cc01d72a9f87ad8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2eacf7012a6de9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a9f86606a70df90",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube Stream notes/Stream 35.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Stream 35"
+            }
+          },
+          {
+            "id": "758ae857fb4c1c8f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "large-canvas.excalidraw"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "large-canvas"
+            }
+          },
+          {
+            "id": "a4e32a6b0c48601d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ToDo"
+            }
+          },
+          {
+            "id": "7e69b6447c649aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English"
+            }
+          },
+          {
+            "id": "4161d3ae45fc7b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/LinkedIn.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "LinkedIn"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c573778eb96b19f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea7da6dcdc74209b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6fc1270a39d39c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a802029fd85d5de4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e5b8f863ebfbc936",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "208e5a54d8aef1a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca1c6729f4529bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0639e490b5c3cf82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Youtube Stream notes/Stream 19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stream 19"
+            }
+          },
+          {
+            "id": "8fd8bf20107c6cbc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Youtube Stream notes/Stream 19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stream 19"
+            }
+          },
+          {
+            "id": "ab43a62b9450f55e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2014ecc979697556",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Youtube Stream notes/Stream 19.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stream 19"
+            }
+          },
+          {
+            "id": "e20b0eec5adcb05d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "custom-sort:Toggle custom sorting": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "758ae857fb4c1c8f",
+  "lastOpenFiles": [
+    "Output/LinkedIn.md",
+    "large-canvas.excalidraw",
+    "Youtube Stream notes/Stream 35.md",
+    "AI/ai-notes.md",
+    "Tools/Tool-notes.md",
+    "Programming/Programming notes.md",
+    "Communication.md",
+    "AI/docs/AI Coding Agents_ A Comparative Analysis.pdf",
+    "Youtube Stream notes/Stream 34.md",
+    "ToDo.md",
+    "Draw.md",
+    "English.md",
+    "Youtube Stream notes/Stream 33.md",
+    "Youtube Stream notes/Stream 32.md",
+    "Pasted image 20250830151357.png",
+    "Pasted image 20251031101521.png",
+    "Youtube Stream notes/Stream 31.md",
+    "Self-Development/Self-Development notes.md",
+    "Youtube Stream notes/Stream 30.md",
+    "Self-Development",
+    "Youtube Stream notes/Stream 29.md",
+    "Research/Politics notes.md",
+    "Output",
+    "Youtube Stream notes/Stream 28.md",
+    "From personal.md",
+    "Research/Effective Altruism.md",
+    "Youtube Stream notes/Stream 26.md",
+    "Youtube Stream notes/Stream 27.md",
+    "Youtube Stream notes/Stream 25.md",
+    "Life-Work.md",
+    "Tools/Affinity-Notes.md",
+    "Tools/git-cheat-sheet-education.pdf",
+    "desktop.ini",
+    "Programming",
+    "Tools",
+    "AI/docs",
+    "AI/AI-Board.svg",
+    "Excalidraw",
+    "large-canvas.svg",
+    "Website/Website excali.svg"
+  ]
+}

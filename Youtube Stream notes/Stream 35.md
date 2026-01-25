@@ -1,0 +1,3 @@
+- Revisit my notes, previous plans
+- Developing how I use AI in my learning and working
+- Continue creating Linkedin bio
