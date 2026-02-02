@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a9f86606a70df90",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Youtube Stream notes/Stream 35.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Stream 35"
-            }
-          },
-          {
             "id": "758ae857fb4c1c8f",
             "type": "leaf",
             "pinned": true,
@@ -38,24 +22,39 @@
             }
           },
           {
-            "id": "a4e32a6b0c48601d",
+            "id": "61fd7f9e246db6d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube Stream notes/Stream 37.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Stream 37"
+            }
+          },
+          {
+            "id": "e143aeb44a464a2a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
+                "file": "EA Intro course.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "EA Intro course"
             }
           },
           {
-            "id": "7e69b6447c649aad",
+            "id": "32e77184379b9e33",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -63,39 +62,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "English"
             }
-          },
-          {
-            "id": "4161d3ae45fc7b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Output/LinkedIn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "LinkedIn"
-            }
-          },
-          {
-            "id": "ddd6772bd345f212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ToDo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ToDo"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,21 +235,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a9f86606a70df90",
+  "active": "61fd7f9e246db6d0",
   "lastOpenFiles": [
     "large-canvas.excalidraw",
+    "EA Intro course.md",
+    "Youtube Stream notes/Stream 37.md",
+    "English.md",
+    "Web/Website excali.md",
+    "Web/Kipnuni-website.md",
     "ToDo.md",
-    "Youtube Stream notes/Stream 35.md",
+    "Youtube Stream notes/Stream 36.md",
+    "Web/General.md",
     "Output/LinkedIn.md",
+    "Programming/Programming notes.md",
+    "Youtube Stream notes/Stream 35.md",
     "From personal.md",
     "AI/ai-notes.md",
     "Tools/Tool-notes.md",
-    "Programming/Programming notes.md",
     "Communication.md",
     "AI/docs/AI Coding Agents_ A Comparative Analysis.pdf",
     "Youtube Stream notes/Stream 34.md",
     "Draw.md",
-    "English.md",
     "Youtube Stream notes/Stream 33.md",
     "Youtube Stream notes/Stream 32.md",
     "Pasted image 20250830151357.png",
@@ -289,12 +268,6 @@
     "Research/Politics notes.md",
     "Output",
     "Youtube Stream notes/Stream 28.md",
-    "Research/Effective Altruism.md",
-    "Youtube Stream notes/Stream 26.md",
-    "Youtube Stream notes/Stream 27.md",
-    "Youtube Stream notes/Stream 25.md",
-    "Life-Work.md",
-    "Tools/Affinity-Notes.md",
     "Tools/git-cheat-sheet-education.pdf",
     "desktop.ini",
     "Programming",
@@ -303,6 +276,6 @@
     "AI/AI-Board.svg",
     "Excalidraw",
     "large-canvas.svg",
-    "Website/Website excali.svg"
+    "Web/Website excali.svg"
   ]
 }

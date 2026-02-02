@@ -1,3 +1,5 @@
 - Contemporary
 - utility
 - ratified
+- Intangible
+- estimation
