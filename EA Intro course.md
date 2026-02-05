@@ -19,4 +19,13 @@ CFAR - Center for Applied Rationality
 - It felt like they just do research themselves in close circle
 - The only path is to attend a workshop. High barrier to entry. No example of a workshop.
 
+- Not being able to measure concepts is hard for many?
 
+1. What's the scale?
+2. Is the topic neglected?
+3. Is it solvable?
+Comment: a video was very nice. easy to follow
+## Question
+- What are the future plans to develop the intro program?
+- About the principles: Are there more of them or some other versions? What is the history of them?
+- (Should I read the chapter 1 and 2 again even if I felt I already grasped the ideas?)
