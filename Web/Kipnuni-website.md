@@ -12,6 +12,7 @@
 	- instagram/facebook
 	- bluesky
 	- Who am I - 
+- Daily cards/updates of what I have done on and off the stream
 
 create a page where there is a vertical timeline that represent my journey the timeline is in the middle and there are info cards on the sides, total in 4 columns when on desktop and tablet, and in 2 columns when in mobile. make the vertical line a bit flowy/snaky. on top of the line, put a current time and on right and left side of it, create a button that are links to other pages on the website. On the timeline, create clear sections with year numbers.
 

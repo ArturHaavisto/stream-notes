@@ -1,0 +1,1 @@
+- Yapping about getting rid of things from my life that are not part of the vision. No need to wait. Should get all at once.
