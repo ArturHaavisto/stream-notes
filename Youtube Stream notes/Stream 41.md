@@ -1,0 +1,2 @@
+- Update on improving my every day productivity
+- Shopping for the new phone holder on top of a tripod

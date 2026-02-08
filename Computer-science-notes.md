@@ -1,0 +1,10 @@
+- Moore’s law
+- Alan Turing
+- Process
+- Threads
+- DLSS: deep learning super sampling
+- Ray Tracing
+- Rasterization: Normal way of rendering
+- NVME: Non volatile Memory Express
+- PCIe: Peripheral Component Interconnect Express
+- DIMM: Dual in-line memory module
