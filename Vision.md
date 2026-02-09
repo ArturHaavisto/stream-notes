@@ -2,7 +2,7 @@ Ultimately, the motivation to move forward comes from being aware of the reality
 
 There will not be a limit on how far I can get, happily.
 
-What I want is have fun with people and explore the world we live in while I'm here.
+What I want is to have fun with people and explore the world we live in while I'm here.
 
 My friends say they can't play because of some broken system. If I help, we can start playing sooner...
 

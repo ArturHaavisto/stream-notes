@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Youtube Stream notes/Stream 41.md",
+                "file": "Youtube Stream notes/Stream 42.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 41"
+              "title": "Stream 42"
             }
           },
           {
@@ -70,119 +70,51 @@
             }
           },
           {
-            "id": "4477d00f585655b6",
+            "id": "f11d8faedc865cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux-notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux-notes"
-            }
-          },
-          {
-            "id": "38fac1d344418978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows-shortcuts.md",
+                "file": "Communication-plan.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Windows-shortcuts"
+              "title": "Communication-plan"
             }
           },
           {
-            "id": "a89bfce9da887679",
+            "id": "ea266bfec76c9ca3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/LinkedIn.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "LinkedIn"
+            }
+          },
+          {
+            "id": "578561b72f00d8f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-science-notes.md",
+                "file": "Business/Business-plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer-science-notes"
-            }
-          },
-          {
-            "id": "6827520c5c80181f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What-is-a-microprocessor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What-is-a-microprocessor"
-            }
-          },
-          {
-            "id": "ad073c95c0ea35d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ffmpeg.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ffmpeg"
-            }
-          },
-          {
-            "id": "e426eb9892a0f307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "algorithms"
-            }
-          },
-          {
-            "id": "a764a0cedb7e89c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/nodejs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nodejs"
-            }
-          },
-          {
-            "id": "6edf8eafc3085528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Youtube Stream notes/Stream 40.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stream 40"
+              "title": "Business-plan"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -339,22 +271,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "custom-sort:Toggle custom sorting": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "967a190d663c929d",
+  "active": "ea266bfec76c9ca3",
   "lastOpenFiles": [
+    "Youtube Stream notes/Stream 42.md",
+    "Business/LinkedIn.md",
+    "Business/Business-plan.md",
+    "Communication-plan.md",
+    "Business",
+    "Vision.md",
+    "Communication-changes.md",
+    "English.md",
+    "large-canvas.excalidraw",
+    "Youtube Stream notes/Stream 41.md",
     "Youtube Stream notes/Stream 40.md",
     "4infographic-map-computer-science.png",
-    "Youtube Stream notes/Stream 41.md",
-    "large-canvas.excalidraw",
     "Web/nodejs.md",
     "Web/Web-notes.md",
     "Pasted image 20260208140904.png",
@@ -376,8 +312,6 @@
     "Windows-shortcuts.md",
     "00-computer-science.docx",
     "Linux-notes.md",
-    "English.md",
-    "Vision.md",
     "Youtube Stream notes/Stream 39.md",
     "Youtube Stream notes/Stream 38.md",
     "Youtube Stream notes/Stream 37.md",
@@ -385,16 +319,11 @@
     "Youtube Stream notes/Stream 35.md",
     "Life-Rework February 2026.md",
     "Music.md",
-    "EA Intro course.md",
-    "Web/Website excali.md",
-    "ToDo.md",
-    "Web/General.md",
     "AI/docs/AI Coding Agents_ A Comparative Analysis.pdf",
     "Self-Development",
     "Output",
     "Tools/git-cheat-sheet-education.pdf",
     "desktop.ini",
-    "Programming",
-    "Tools"
+    "Programming"
   ]
 }
