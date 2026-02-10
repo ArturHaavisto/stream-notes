@@ -28,6 +28,9 @@ Life
 
 Ajarak
 - Life Management
+	- Goals
+		- Set goals for each day / weekly goals / Monthly / Quarter yearly / Yearly
+	- Timer
 - Self-Development
 - Work
 - One mode

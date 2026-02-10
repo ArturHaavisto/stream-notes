@@ -10,14 +10,11 @@
 # Life management
 - Software development setup
 - Organize notes
-- Entertainment
-	- League of Legends
 
 # Skills & Knowledge
 ## Ajarak
 - Intense thinking
 - Increasing thinking tempo
-- Go forward
 ## Communication
 - fluency
 	- word -> word -> word
@@ -30,7 +27,6 @@
 - Learn random stuff
 - Song
 ## Studying
-- Learn how to study
 - Choose a book and start reading
 ### Following News
 - Finnish News
@@ -111,24 +107,18 @@
 - YouTube
 	- Algorithm
 	- Channels
-
-
 ## Drawing
 - Create a plan
 - Search tutorials
 - Draw using ajarak
 - Actually draw
-
 # Output
 ## General information
-- Create a pitch from me
+- Create a pitch about me
 	- One sentence, 15s, 30s, 1min, 2min, 5min, 10min
-
 ### My skills
 ### My role
-
 ### My goals
-
 ### My look
 - Physical appearance
 - Clothing style

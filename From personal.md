@@ -84,25 +84,8 @@ Change the study -> Business Information Systems
 VR-glasses eye focus distance, perceived vs ?
 
 # Thoughts
-too much thoughts, feeling
-
-on going thoughts, pressure to continue them, difficulty doing the process
-
-too much pressure to think, start acting, compare to everyone else at once
-
-my thoughts lead to daydreaming
-
-because of difficulties to concentrate, i tend to give up
-
-how much can i even change? i use masking. whenever i like something, i go into it fully, vecoming blind to everything else? manager/leader role?
-
-Very empty feeling after I feel like accomplishing something. Waiting for pressure to raise / energy to come. Odd
-
 
 women as leaders
-thesis
-pc specs
-
 
 Penpot > Figma
 Inkscape > Gimp for creating logos
@@ -134,21 +117,14 @@ npm → pnpm/bun
 
 
 To think:
-think more before deciding/making action
-I can’t live productively if I rely on control mindset only? Need to create a new mindless mindset
-The general canvas could be integrated into ajarak.
 Sexuality
 How someone is gay?
+
 In the states, american flag is often used for conservatism and rainbow flag for liberatism. Are liberals combining the american flags and rainbows enough to get the right message?
-Provider and helper role feels good
+
 paying people to think and answer properly to questions
-What constant do I rely on? Shouldn’t I become my own constant that people could possible use?
 
 urantia
-
-masking, understand overview, phases start from 1, importance not clear, script acting
-can i say doing nothing is life well spent?
-stressing out work or driving because i think about needing to consciously control everything. even experience doesn’t help, because i don’t trust subconsciousness even though i should
 
 
 - Donate to freefilesync

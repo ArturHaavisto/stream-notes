@@ -18,7 +18,7 @@
 				- Create a scenario where someone asks or expects my answer
 		- Mindset from doing the minimum to doing what I want
 			- Minimum = killing time
-				- Who/What am I waiting?
+				- Who/What am I waiting for?
 					- I'm waiting to die
 - Ajarak
 	- (A visual imaginary structure inside my head that I use to build knowledge to easier create higher level thoughts and to remember better.)
