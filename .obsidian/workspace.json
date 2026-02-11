@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Youtube Stream notes/Stream 43.md",
+                "file": "Youtube Stream notes/Stream 44.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 43"
+              "title": "Stream 44"
             }
           },
           {
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.50043487548828
+    "width": 213.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "208e5a54d8aef1a0",
@@ -266,11 +267,13 @@
   "active": "967a190d663c929d",
   "lastOpenFiles": [
     "EA Intro course.md",
-    "desktop.ini",
+    "Business/CV.md",
+    "Business/LinkedIn.md",
+    "Youtube Stream notes/Stream 44.md",
     "Youtube Stream notes/Stream 43.md",
+    "desktop.ini",
     "Vision.md",
     "Self-Development/Self-Development notes.md",
-    "Business/LinkedIn.md",
     "From personal.md",
     "large-canvas.excalidraw",
     "learn-software.md",
@@ -303,7 +306,6 @@
     "Computer-science-notes.md",
     "processor.docx",
     "Web/Kipnuni-website.md",
-    "Windows-shortcuts.md",
     "00-computer-science.docx",
     "AI/docs/AI Coding Agents_ A Comparative Analysis.pdf",
     "Self-Development",
