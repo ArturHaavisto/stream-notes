@@ -1,0 +1,4 @@
+- Create the timer feature into the stream layout
+- Stream scenes and their shortcuts
+- Pause view
+- Regularly used topics saved

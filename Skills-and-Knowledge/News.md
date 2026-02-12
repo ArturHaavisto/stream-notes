@@ -1,0 +1,71 @@
+- Finnish News
+	- Eduskunta
+	- Yle
+	- Helsingin-Sanomat
+	- Aamulehti
+	- Ilta-Sanomat
+	- Turun-Sanomat
+	- Kaleva
+- EU politics
+	- EU parliament
+	- Euronews
+	- Politico EU
+- Global politics
+	- worldpoliticsreview
+	- aljazeera
+	- BBC
+	- CNBC
+	- Reuters
+- Economics
+	- Startups
+		- Finnish Startup community
+		- Business finland
+		- techcrunch startups
+	- Stocks
+		- marketwatch
+		- investing
+	- Crypto
+		- Cryptonews
+	- Global
+		- Financial Times
+- Tech
+	- AI
+		- Youtube
+		- Tiktok
+		- ai-news
+		- tech crunch
+		- reddit
+	- Web Dev
+		- dev community
+		- Game Dev
+			- Game developer
+	- Security
+		- Hacker news
+	- 2D/3D creation
+		- 80 lvl
+		- creativebloq
+		- cgpress
+	- Video/Audio creation
+		- pcmag
+		- redshark news
+	- Devices
+		- Mobile phones
+			- tech radar
+			- gsm arena
+		- XR
+			- road to vr
+			- xrtoday
+			- mixed-news
+			- xrdevelopernews
+		- Robots
+			- therobotreport
+- War
+	- thewarzone
+	- deepstatemap
+
+- China
+	- xinhua
+	- chinadaily
+- India
+	- indian express
+	- times of india

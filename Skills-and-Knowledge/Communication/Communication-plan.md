@@ -2,6 +2,11 @@
 # Verbal
 - Think of a word/concept. Then, start talking about it and don't stop. Move from thought to thought. The aim is to improvise and not lose flow.
 
+Communication
+- fluency
+	- word -> word -> word
+- Research ways to improve communication
+
 # Non-verbal
 ## Eye contact
 - For my whole life, I've avoided eye contact
@@ -27,12 +32,34 @@
 # Languages
 ## English
 - AI tools (gemini). Be able to have a conversation with AI
+
+## The same methods for Chinese and Arabic
+- What is the goal?
+	- Getting a better understanding of the culture
+	- It's fun
+	- Be able to speak in that language, scalably
+- What is the best method of learning it?
+	- Language Islands
+		- Beginnings
+		- Endings
+		- Explaining my motivation to learn the language
+	- I need sentences to practice by repetition
+	- I need words that I can practice pronunciation
+	- If I say it wrong, I get better feedback
+
+- I need to have words and sentences to speak on random times
+	- Hard to pronounce words
+- Learn the alphabet in Arabic
+- Start learning Chinese characters
+- In each session, I should feel pressure from the brain
+- In each session, build the viewpoint for that language stronger
+- Before a session, I should have already a good idea of what I need
+
 ## Chinese
 - Use a mobile app
 - Use an app on a browser
+- song
 ## Arabic
 ## Korean
-
-
 
 

@@ -1,0 +1,3 @@
+- Update Todo list
+- Create LinkedIn bio
+- Create language learning plan
