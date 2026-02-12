@@ -1,4 +1,0 @@
-- updating current status
-- talking about the plan forward
-- Doing some concrete changes for Helper of Humanity life
-	- Cleaning my main youtube algorithm

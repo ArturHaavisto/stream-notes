@@ -3,25 +3,13 @@
     {
       "type": "file",
       "ctime": 1754418055758,
-      "path": "Life-Work.md",
+      "path": "Life-Work/Life-Work-notes.md",
       "title": "0"
     },
     {
       "type": "group",
       "ctime": 1754418103290,
       "items": [
-        {
-          "type": "file",
-          "ctime": 1754418370393,
-          "path": "Life-Work.md",
-          "subpath": "#^-"
-        },
-        {
-          "type": "file",
-          "ctime": 1754418341706,
-          "path": "ToDo.md",
-          "subpath": "#^-"
-        },
         {
           "type": "file",
           "ctime": 1754418280307,
@@ -32,18 +20,6 @@
           "type": "file",
           "ctime": 1754418280307,
           "path": "publish.js",
-          "subpath": "#^-"
-        },
-        {
-          "type": "group",
-          "ctime": 1754418397316,
-          "items": [],
-          "title": "Youtube Stream notes"
-        },
-        {
-          "type": "file",
-          "ctime": 1754418397316,
-          "path": "large-canvas.excalidraw",
           "subpath": "#^-"
         },
         {

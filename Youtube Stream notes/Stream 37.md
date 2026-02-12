@@ -1,7 +1,0 @@
-- Doing EA Intro program week 1 assignment
-- Reading the curriculum and materials
-- Giving my opinions on matters
-- Thinking about what I want to get from this program.
-- Where I'm in my self-development now
-	- Transition from making high level plans and thinking while doing a vlog to doing it just in my mind (normal thinking) (using ajarak)
-	- Transition from chill tempo life to fragmented small chunk living experience.

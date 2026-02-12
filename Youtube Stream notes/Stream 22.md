@@ -1,3 +1,0 @@
-- I won't graduate
-- What I will be focusing on next
-- Playing Finnish Parliament game

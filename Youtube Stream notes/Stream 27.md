@@ -1,1 +1,0 @@
-- Talk about how I need to do more in life. I reach too low at the moment. More work.

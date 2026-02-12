@@ -1,0 +1,1 @@
+- A visual imaginary structure inside my head that I use to build knowledge to easier create higher level thoughts and to remember better.

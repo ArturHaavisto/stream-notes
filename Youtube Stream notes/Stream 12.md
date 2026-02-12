@@ -1,2 +1,0 @@
-- Continuing simplifying life
-- Talking about where I'd like to live

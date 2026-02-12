@@ -1,5 +1,0 @@
-- Going through notes from my phone
-- Random talk
-- Thesis setup
-- Planning Gamifying Politics and Life-Work
-- Going over tasks

@@ -1,4 +1,0 @@
-- Yapping about my life
-- Showing my apartment quickly
-- Improving the stream layout
-- Creating a script to change time to a file

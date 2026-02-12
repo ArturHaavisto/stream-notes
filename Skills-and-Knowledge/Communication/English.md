@@ -1,0 +1,6 @@
+- Contemporary
+- utility
+- ratified
+- Intangible
+- estimation
+- neglected

@@ -1,8 +1,0 @@
-- Play LoL tutorial
-- Research Effective Altruism
-	- Official Website
-	- Watch introduction videos
-	- Do quick research about other similar communities
-- Initialize Drawing habit
-- Initialize casual coding habit
-- Go over news plan and news sources

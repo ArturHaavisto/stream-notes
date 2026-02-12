@@ -1,2 +1,0 @@
-- Going through current life status
-- Planning the private/public setup

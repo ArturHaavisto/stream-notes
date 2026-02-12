@@ -1,0 +1,1 @@
+- Finishing EA Intro program week 1 assignment

@@ -1,0 +1,2 @@
+- Yap about my latest self-developments
+- Initialize my business side of life

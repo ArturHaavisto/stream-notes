@@ -1,0 +1,5 @@
+- Change the stream categories
+- Clean the obsidian notes
+- Improving productivity
+	- Go over Vision and Self-Development notes and organize them
+- Start scheduling my life

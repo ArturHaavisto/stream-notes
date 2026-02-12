@@ -1,0 +1,5 @@
+- Revisit my notes, previous plans
+- Developing how I use AI in my learning and working
+- Putting notes to Github
+- Thinking about my future plan
+- Decided to focus on Ajarak for now

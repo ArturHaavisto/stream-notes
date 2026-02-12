@@ -1,5 +1,0 @@
-- Developing how I work
-	- How I stream
-	- How I learn
-	- Ajarak
-	- AI

@@ -1,0 +1,2 @@
+- EA Intro Program week 2 exercises
+- Updating my CV

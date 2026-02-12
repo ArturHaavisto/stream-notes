@@ -8,59 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "758ae857fb4c1c8f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "large-canvas.excalidraw"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "large-canvas"
-            }
-          },
-          {
             "id": "967a190d663c929d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Youtube Stream notes/Stream 44.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 45.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 44"
+              "title": "Stream 45"
             }
           },
           {
-            "id": "742c3382b51fe77d",
+            "id": "a64efdc418d988fa",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vision.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Vision"
-            }
-          },
-          {
-            "id": "32e77184379b9e33",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English.md",
+                "file": "Skills-and-Knowledge/Communication/English.md",
                 "mode": "source",
                 "source": false
               },
@@ -70,37 +40,84 @@
             }
           },
           {
-            "id": "ea266bfec76c9ca3",
+            "id": "7d19a62c90eb349d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/LinkedIn.md",
+                "file": "Life-Management/ToDo.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "LinkedIn"
+              "title": "ToDo"
             }
           },
           {
-            "id": "f47f8ff6a054ab07",
+            "id": "b01d197aa974e9d2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EA Intro course.md",
+                "file": "Life-Management/Vision.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "EA Intro course"
+              "title": "Vision"
+            }
+          },
+          {
+            "id": "1eb8ef1d0d71bd6e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Management/Self-Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Self-Development"
+            }
+          },
+          {
+            "id": "28c8f3b345fc8b27",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Management/Ajarak.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Ajarak"
+            }
+          },
+          {
+            "id": "758ae857fb4c1c8f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Life-Management/large-canvas.excalidraw"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "large-canvas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.50043487548828,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "208e5a54d8aef1a0",
@@ -237,8 +253,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -266,51 +282,51 @@
   },
   "active": "967a190d663c929d",
   "lastOpenFiles": [
-    "EA Intro course.md",
-    "Business/CV.md",
+    "Life-Management/Self-Development.md",
+    "Life-Management/Vision.md",
+    "Life-Work/AI/ai-notes.md",
+    "Life-Management/large-canvas.excalidraw",
+    "Life-Management/ToDo.md",
+    "Life-Management/Ajarak.md",
+    "Life-Work/Youtube-Stream-notes/Stream 45.md",
+    "Skills-and-Knowledge/Communication/English.md",
     "Business/LinkedIn.md",
-    "Youtube Stream notes/Stream 44.md",
-    "Youtube Stream notes/Stream 43.md",
-    "desktop.ini",
-    "Vision.md",
-    "Self-Development/Self-Development notes.md",
-    "From personal.md",
-    "large-canvas.excalidraw",
-    "learn-software.md",
-    "Life-Rework February 2026.md",
-    "Life-Work.md",
-    "ToDo.md",
     "Business/Business-plan.md",
-    "Communication-plan.md",
-    "Youtube Stream notes/Stream 42.md",
-    "Business",
-    "Communication-changes.md",
-    "English.md",
-    "Youtube Stream notes/Stream 41.md",
-    "Youtube Stream notes/Stream 40.md",
-    "4infographic-map-computer-science.png",
-    "Web/nodejs.md",
-    "Web/Web-notes.md",
-    "Pasted image 20260208140904.png",
-    "Pasted image 20260208140900.png",
-    "Pasted image 20260208140856.png",
-    "Pasted image 20260208135633.png",
-    "Pasted image 20260208135620.png",
-    "Pasted image 20260208135553.png",
-    "Pasted image 20260208135538.png",
-    "Pasted image 20260208135525.png",
-    "Pasted image 20260208135449.png",
-    "algorithms.md",
-    "ffmpeg.md",
-    "What-is-a-microprocessor.md",
-    "Computer-science-notes.md",
-    "processor.docx",
-    "Web/Kipnuni-website.md",
-    "00-computer-science.docx",
-    "AI/docs/AI Coding Agents_ A Comparative Analysis.pdf",
-    "Self-Development",
-    "Output",
-    "Tools/git-cheat-sheet-education.pdf",
-    "Programming"
+    "Life-Work/Life-Work-notes.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Life-Management/Screenshots/Pasted image 20260208140904.png",
+    "Life-Management/Screenshots",
+    "Life-Work/Kipnuni-website.md",
+    "Life-Work/Youtube-Stream-notes/desktop.ini",
+    "large-canvas.svg",
+    "micro-processor-course-notes.pdf",
+    "lu508303g2.tmp",
+    "00-computer-science.pdf",
+    "lu143002w5n8.tmp",
+    "desktop.ini",
+    "Skills-and-Knowledge/Communication/Arabic.md",
+    "Life-Work/Youtube-Stream-notes/Stream 44.md",
+    "Life-Work/EA Intro course.md",
+    "Business/CV.md",
+    "Life-Work/Youtube-Stream-notes/Stream 43.md",
+    "Life-Management/From-personal.md",
+    "Skills-and-Knowledge/learn-software.md",
+    "Life-Management/Life-Rework-February-2026.md",
+    "Skills-and-Knowledge/Communication/Communication-plan.md",
+    "Life-Work/Youtube-Stream-notes/Stream 42.md",
+    "Skills-and-Knowledge/Communication/Communication-changes.md",
+    "Life-Work/Youtube-Stream-notes/Stream 41.md",
+    "Life-Work/Youtube-Stream-notes/Stream 40.md",
+    "Skills-and-Knowledge/4infographic-map-computer-science.png",
+    "Skills-and-Knowledge/Web/nodejs.md",
+    "Skills-and-Knowledge/Web/Web-notes.md",
+    "Life-Management/Screenshots/Pasted image 20260208140900.png",
+    "Life-Management/Screenshots/Pasted image 20260208140856.png",
+    "Life-Management/Screenshots/Pasted image 20260208135633.png",
+    "Life-Management/Screenshots/Pasted image 20260208135620.png",
+    "Life-Management/Screenshots/Pasted image 20260208135553.png",
+    "Life-Management/Screenshots/Pasted image 20260208135538.png",
+    "Life-Management/Screenshots/Pasted image 20260208135525.png"
   ]
 }

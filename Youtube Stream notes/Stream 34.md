@@ -1,3 +1,0 @@
-- random yapping
-- Talking about no meaning, death, feelings, difficulty of change
-- Improve communication: going through tasks for this session

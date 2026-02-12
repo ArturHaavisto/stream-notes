@@ -1,1 +1,0 @@
-- Building real life character of what I'd like to be

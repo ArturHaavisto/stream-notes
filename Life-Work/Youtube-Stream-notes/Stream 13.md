@@ -1,0 +1,5 @@
+- Went through web technology choices for my website
+- React, NodeJS
+- Created a new website section to the notes
+- Created a new scene to OBS for watching videos
+- 

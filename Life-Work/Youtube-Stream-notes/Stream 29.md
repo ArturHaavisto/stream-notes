@@ -1,0 +1,2 @@
+- Continue learning different types of "laws"
+- Create LinkedIn bio

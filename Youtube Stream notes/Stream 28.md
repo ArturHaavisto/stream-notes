@@ -1,2 +1,0 @@
-- Learn to find Finnish Laws
-- Learn Chinese numbers, colors, and food/drinks
