@@ -45,4 +45,8 @@ Make Videos
 - Video 2: Introduction video
 - Video 3: Ajarak
 
+Digital garden enthusiasts
+
+List of creators I want to donate someday:
+- Krita, Wikipedia
 

@@ -10,15 +10,17 @@
           {
             "id": "967a190d663c929d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 48.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 49.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 48"
+              "title": "Stream 49"
             }
           },
           {
@@ -114,8 +116,21 @@
               "icon": "excalidraw-icon",
               "title": "large-canvas"
             }
+          },
+          {
+            "id": "a2681287e8414094",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Life-Management/Screenshots/Pasted Image 20260216001042_175.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20260216001042_175"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -278,20 +293,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "967a190d663c929d",
+  "active": "e6fc1270a39d39c3",
   "lastOpenFiles": [
-    "Life-Work/Youtube-Stream-notes/Stream 47.md",
-    "Life-Work/Youtube-Stream-notes/Stream 48.md",
-    "Life-Work/Youtube-Stream-notes/Stream 46.md",
+    "Life-Management/Screenshots/Pasted Image 20260216001042_219.png",
+    "Life-Management/Screenshots/Pasted Image 20260216001042_175.png",
+    "Life-Management/large-canvas.excalidraw",
+    "Life-Work/Youtube-Stream-notes/Stream 49.md",
+    "Life-Management/Todo.md",
+    "Life-Work/Coaching/Untitled.canvas",
+    "Life-Work/Coaching/Coaching-canvas.md",
+    "Life-Work/Coaching/Coaching-notes.md",
+    "Life-Work/Coaching",
     "Skills-and-Knowledge/Communication/Communication-plan.md",
+    "Life-Work/Youtube-Stream-notes/Stream 48.md",
+    "Life-Work/Youtube-Stream-notes/Stream 47.md",
+    "Life-Work/Youtube-Stream-notes/Stream 46.md",
     "Skills-and-Knowledge/Communication/Arabic.md",
     "Skills-and-Knowledge/Communication/Chinese.md",
     "Skills-and-Knowledge/Communication/English.md",
-    "Life-Management/Todo.md",
     "Business/LinkedIn.md",
     "Life-Work/Streaming.md",
     "Life-Work/Kipnuni-website.md",
-    "Life-Management/large-canvas.excalidraw",
     "Skills-and-Knowledge/News.md",
     "Life-Management/Ajarak.md",
     "Life-Management/Self-Development.md",
@@ -310,21 +332,14 @@
     "lu508303g2.tmp",
     "00-computer-science.pdf",
     "lu143002w5n8.tmp",
-    "desktop.ini",
     "Life-Work/Youtube-Stream-notes/Stream 44.md",
     "Life-Work/EA Intro course.md",
     "Business/CV.md",
-    "Life-Work/Youtube-Stream-notes/Stream 43.md",
-    "Life-Management/From-personal.md",
-    "Skills-and-Knowledge/learn-software.md",
-    "Life-Management/Life-Rework-February-2026.md",
     "Skills-and-Knowledge/4infographic-map-computer-science.png",
     "Life-Management/Screenshots/Pasted image 20260208140900.png",
     "Life-Management/Screenshots/Pasted image 20260208140856.png",
     "Life-Management/Screenshots/Pasted image 20260208135633.png",
     "Life-Management/Screenshots/Pasted image 20260208135620.png",
-    "Life-Management/Screenshots/Pasted image 20260208135553.png",
-    "Life-Management/Screenshots/Pasted image 20260208135538.png",
-    "Life-Management/Screenshots/Pasted image 20260208135525.png"
+    "Life-Management/Screenshots/Pasted image 20260208135553.png"
   ]
 }

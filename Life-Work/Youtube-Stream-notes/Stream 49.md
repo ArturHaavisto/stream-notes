@@ -1,0 +1,1 @@
+- Initializing maximum life plan
