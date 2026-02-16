@@ -1,0 +1,3 @@
+- Continue developing the big plan
+- Update the life's plan
+- Changing my feelings to adjust to the new plan

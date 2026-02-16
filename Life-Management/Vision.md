@@ -29,7 +29,6 @@ Schedule
 - Knowing what to do in different timeframes (roadmap)
 - Constantly creating and adjusting the schedule
 
-
 Life Management
 - I'm able to do many things at once without stress
 - I know what the value of what I do is

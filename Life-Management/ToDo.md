@@ -1,16 +1,20 @@
 # Life-Management
+Ajarak
+- Practice sessions that are difficult
+	- 10 sessions
+
 Organize and clean life
 
 Buy a new microphone
 # Skills-and-Knowledge
+Increase information
+- Book
+
 Communication
 - Chinese
 - Arabic
 
 Draw
-
-Increase information
-- Book
 
 News
 
@@ -32,6 +36,19 @@ Receiving opportunities
 - Startup process
 - Startup companies and opportunities
 # Life-Work
+EA Intro week 3
+
+AI
+- Accept integration end goal
+- Start everything at once
+	- Learn about how it woks deeper
+	- Learn to use it in work I do already
+	- Learn about every potential use case
+	- Read news about it
+
+Gamifying Politics
+- Biggest project in my life for now
+
 Thinking/Writing ideas
 
 Research coaching
@@ -47,6 +64,6 @@ Make Videos
 
 Digital garden enthusiasts
 
-List of creators I want to donate someday:
+List of creators I want to donate to someday:
 - Krita, Wikipedia
 

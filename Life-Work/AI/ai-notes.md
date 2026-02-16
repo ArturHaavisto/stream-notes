@@ -38,7 +38,7 @@
 - Claude.md: programming and project rules it follows
 - Message queue
 - Plan mode before proper work
-- Different "think <how hard>" options for how long it will think
+- Different "think 'how hard'" options for how long it will think
 - Web search feature
 - Change tracking, log
 - Integration with Github Actions

@@ -4,3 +4,4 @@
 - Intangible
 - estimation
 - neglected
+- residential area
