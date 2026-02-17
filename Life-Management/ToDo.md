@@ -2,6 +2,9 @@
 Ajarak
 - Practice sessions that are difficult
 	- 10 sessions
+- Mindset for grinding/learning
+	- I have the time
+	- If I come across with something interesting, put in to the notes
 
 Organize and clean life
 
@@ -39,12 +42,22 @@ Receiving opportunities
 EA Intro week 3
 
 AI
-- Accept integration end goal
-- Start everything at once
-	- Learn about how it woks deeper
-	- Learn to use it in work I do already
-	- Learn about every potential use case
-	- Read news about it
+- Building AI models/systems
+	- Use AI via api
+	- Run the model locally
+- Using AI tools
+	- Tools for creation
+	- Tools for productivity
+		- Organize notes
+			- If it's not easy to open notes, something is wrong
+		- Get an idea of different learning tools
+		- Aim to create the most optimal learning workflow and mindset
+			- These AI tools for productivity will be used everywhere
+		- Initialize news about this
+			- If a new, better productivity tool comes along, how will I know about it?
+- New AI
+	- News
+	- Future visions
 
 Gamifying Politics
 - Biggest project in my life for now

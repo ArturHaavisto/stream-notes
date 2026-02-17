@@ -20,6 +20,7 @@ Allow more energy usage
 - Be excited all the time
 
 Ability to be productive and use Ajarak in any situation
+- Target: Ajarak is the biggest safe place. I'm fully relaxed when I use it.
 - Social change. Instead of losing my self in social situations, I keep control
 - I keep Ajarak on/active and can read/browse/navigate/build
 - Problem: How do I remember it?
@@ -39,3 +40,6 @@ One mode
 When conscious and thinking about my life in general level, feel relaxed and feel the extra energy
 - If I think about scheduling an empty time slot, feel that it's not required anywhere particularly
 
+Life mostly in small bursts
+- Instead of going into 2 hour flow-state, I'd by default be conscious and go back and forth with the environment and data handling using Ajarak.
+- Become kind of a machine that people give prompts to and I do multistep work to give back an output.

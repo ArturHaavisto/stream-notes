@@ -1,0 +1,14 @@
+- Initialize AI plan
+- Researching AI: Tools for productivity
+	- The plan:
+		- Connect large vision with AI learning tools
+			- Handling data (understanding/learning)
+			- Understanding the bigger picture
+		- Build the mindset and workflow using Ajarak as well
+		- Start searching/learning the tools
+- Cleaning gemini history
+- Integrating Ajarak into a fragmented workflow
+	- Creating rules for Ajarak use
+- Being fully relaxed using Ajarak
+- Researching AI tools for language learning
+- EA Intro Program Week 3

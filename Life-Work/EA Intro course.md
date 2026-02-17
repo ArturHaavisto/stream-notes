@@ -63,6 +63,16 @@ Comment: a video was very nice. easy to follow
 - How high people that care about animal equality prioritize it compared to first helping people?
 - 
 
+# Week 3
+## The Future is Vast
+- A lot of numbers
+- Longtermism
+- 
+
+
+## Questions
+- What are the reasons someone would become interested in the long term human vision?
+- 
 
 
 

@@ -5,3 +5,5 @@
 - estimation
 - neglected
 - residential area
+- proliferation
+- consolidate
