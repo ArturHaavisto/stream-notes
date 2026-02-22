@@ -75,8 +75,10 @@ Comment: a video was very nice. easy to follow
 - 
 
 
+- Have future problems known, but don't make it pushy. I want to know
+- Don't just settle for today but use the extra energy to the future.
 
-
+[Positive News | Good journalism about good things - Positive News](https://www.positive.news/)
 
 
 
