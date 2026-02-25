@@ -1,0 +1,4 @@
+- Update on life
+- Talking about timeline
+- Updating the plan
+- Developing Gemini usage in language learning

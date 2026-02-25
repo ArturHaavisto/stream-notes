@@ -55,6 +55,16 @@ Communication
 - In each session, build the viewpoint for that language stronger
 - Before a session, I should have already a good idea of what I need
 
+### Gemini instruction commands
+1 Repeat
+2 Slowly
+3 Say command x
+4 Respond in English
+5 How do I say x in Chinese?
+6 Explain it word by word
+7 Explain the meaning of it
+8 
+
 ## Chinese
 - Use a mobile app
 - Use an app on a browser
