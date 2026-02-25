@@ -80,6 +80,32 @@ Comment: a video was very nice. easy to follow
 
 [Positive News | Good journalism about good things - Positive News](https://www.positive.news/)
 
+# Week 4
+
+## Thoughts
+- I'd like to see a visual representation of different ways one could get into AI safety or help move it into a right direction.
+	- People could see where they landed on this "map"
+- 
+
+## Questions
+- Who the websites are for? AI researcher?
+- What is the goal of what I should do differently?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

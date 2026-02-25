@@ -7,3 +7,4 @@
 - residential area
 - proliferation
 - consolidate
+- heuristics
