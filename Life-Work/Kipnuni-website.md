@@ -24,3 +24,15 @@ create a component that is an icon that I can easily add almost anywhere in the 
 - portfolio
 - video page
 	- explain categories (brand)
+
+
+Links
+https://www.linkedin.com/in/arturhaavisto/
+
+https://www.instagram.com/kipnuni/
+
+https://www.facebook.com/kipnuni
+
+https://t.me/kipnuni
+
+mailto:contact.kipnuni@gmail.com
