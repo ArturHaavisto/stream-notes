@@ -151,6 +151,12 @@ LanguageTool
 #### Gemini cli
 - npm install -g @google/gemini-cli
 - GEMINI.md file
+
+##### AIChat using gemini
+- edited ~/.config/aichat/config.yaml
+	- stream: true; highlight: true; wrap: auto
+- alias ask='aichat -f context.md'
+
 ### AI assistant
 #### On PC
 - Having a constant conversation on
