@@ -1,0 +1,2 @@
+- Random yapping
+- Researching Operations
