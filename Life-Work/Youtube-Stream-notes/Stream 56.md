@@ -1,0 +1,2 @@
+- Thoughts about EA Helsinki Summit
+- Updating the life's plan
