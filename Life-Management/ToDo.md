@@ -10,6 +10,8 @@ Organize and clean life
 
 Buy a new microphone
 # Skills-and-Knowledge
+News
+
 Increase information
 - Book
 
@@ -19,28 +21,19 @@ Communication
 
 Draw
 
-News
-
 Speed reading
 - Mobile app
 - Schulte table
 # Business
 Receiving opportunities
+- Website
 - LinkedIn profile, add projects
 - Github
-- Website
 
 - Browse job listings
 - Browse companies
 - Browse people
-
-- Understanding running a business
-- Thinking about my value
-- Startup process
-- Startup companies and opportunities
 # Life-Work
-EA Intro week 3
-
 AI
 - Building AI models/systems
 	- Use AI via api
@@ -64,11 +57,15 @@ Gamifying Politics
 
 Thinking/Writing ideas
 
+Website
+- **Masking in VS Code:** Use a VS Code extension like **"Cloak"** or **"Mask Passwords."** These automatically hide strings in your `.env` or config files, showing `************` instead of the actual value.
+- **Use a Secret Scanner:** In 2026, tools like **Gitleaks** or **TruffleHog** are essential. You can set them up as a "Pre-commit hook." If you accidentally leave a key in your code, the tool will **block the commit** and prevent it from ever reaching GitHub.
+
 Research coaching
 
 Improve streaming
-
-Website
+- Make README.md on github notes
+- **The "Privacy Screen" Hotkey:** In OBS, set a hotkey (like `F9`) that instantly switches to a "Be Right Back" or "Privacy" scene. If you accidentally open a file you shouldn't have, one click hides it.
 
 Make Videos
 - Video 1: How can one help in this world?

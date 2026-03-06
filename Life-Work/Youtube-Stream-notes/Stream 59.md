@@ -1,0 +1,5 @@
+- How realistic am I with my vision?
+- Developing Kipnuni website
+- Start the Founder journey
+- Go over the todo and plan
+- How to improve this day?

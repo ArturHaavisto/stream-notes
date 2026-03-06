@@ -1,0 +1,1 @@
+there are competitions between countries. how much are there collaborations? It could be both, 2 countries together vs 2 other countries. It rotates so everyone is against and with each other.

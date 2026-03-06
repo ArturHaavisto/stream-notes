@@ -1,3 +1,25 @@
+# Plan
+- I want to host a functional version of the website with separate frontend, backend, and database
+	- At least have the same data that's there now and everything else can be "work in progress"
+- I want to create a workflow where I can quickly and easily add/remove/modify content on the website (create new stream notes (url, discussed topics, image,...))
+	- A page that shows all the stream notes and links to them
+
+
+## Admin
+- From the start, add security measures to code logic.
+
+## Cookies
+- can be implemented later
+
+# Production plan
+- Frontend: Azure static web app
+- Backend: Azure functions
+- Database: MongoDB Atlas
+	- Backups: manually. Create a script that I can run for example weekly on my pc and store in google drive
+	- Push new info on the website: local script to connect the backend api
+
+
+
 # Ideas
 - Multiple languages
 - Multiple themes (at least dark/light themes)
@@ -36,3 +58,5 @@ https://www.facebook.com/kipnuni
 https://t.me/kipnuni
 
 mailto:contact.kipnuni@gmail.com
+
+
