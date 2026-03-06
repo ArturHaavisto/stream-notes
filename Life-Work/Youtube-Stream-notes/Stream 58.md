@@ -1,0 +1,4 @@
+- Talk about self-development
+- How excited am I to work towards world peace?
+- Going through my life's plan
+- Going through general AI use
