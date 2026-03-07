@@ -30,4 +30,3 @@ dnsTunneling=true
 
 wsl --shutdown
 
-

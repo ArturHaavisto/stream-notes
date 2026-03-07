@@ -1,3 +1,32 @@
+# Plan
+- What is the plan?
+
+- Economics: Try to find money avenues
+- Politics: Try to find solutions toward democracy
+- AI: Try to find applicationn on democracy or getting money
+- Communities: Get other viewpoints, share my ideas
+
+- Build the mindset where I'm constantly thinking of new possibilities that come along with future development, happenings, trends
+- Learn how the world works
+
+## Active sources I follow
+- Economics
+	- TechCrunch Startups
+- Politics
+	- Yle
+	- Helsingin Sanomat
+	- EU parliament official websites
+	- European Correspondent newsletter
+	- Instagram (Kipnuni)
+- AI
+	- AI tldr newsletter
+	- TechCrunch AI
+	- The Rundown
+- Community
+	- EA Forum
+	- 
+
+# Categories
 - Finnish News
 	- Eduskunta
 	- Yle
@@ -31,8 +60,6 @@
 - Tech
 	- AI
 		- Youtube
-		- Tiktok
-		- ai-news
 		- tech crunch
 		- reddit
 	- Web Dev

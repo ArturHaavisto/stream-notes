@@ -1,0 +1,3 @@
+- Random talk about self-development
+- Developing news following habit
+- Developing Kipnuni website

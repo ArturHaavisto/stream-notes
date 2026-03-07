@@ -40,6 +40,8 @@ AI
 	- Run the model locally
 - Using AI tools
 	- Tools for creation
+		- GitHub Copilot
+			- !!! Use /create-prompt to generate a reusable prompt file with the agent
 	- Tools for productivity
 		- Organize notes
 			- If it's not easy to open notes, something is wrong

@@ -40,6 +40,7 @@ SC Training
 
 ### AI agents
 - GitHub Copilot
+	- !!! Use /create-prompt to generate a reusable prompt file with the agent
 
 - Tabnine
 	- Most private

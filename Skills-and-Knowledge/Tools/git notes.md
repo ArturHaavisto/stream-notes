@@ -1,3 +1,9 @@
+- Use Husky on frontend
+	- Makes rules for committing
+- Setup rules for AI agent to consider git messages and chunks
+	- patch mode?
+	- 
+
 # Worktree
 ```
 _git worktree add_ [-f] [--detach] [--checkout] [--lock [--reason <string>]]
