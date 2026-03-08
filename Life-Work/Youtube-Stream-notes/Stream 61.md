@@ -1,0 +1,4 @@
+- Talk about the end vision's control
+- Creating the large structure for the vision
+- Working on note-taking process
+- Developing Kipnuni website

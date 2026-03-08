@@ -60,6 +60,7 @@ SC Training
 	- What problem does it fix?
 	- How could it be better?
 - General chatbots for learning
+	- Prompt templates
 
 - How do I connect my notes with AI?
 	- On pc (using obsidian)
@@ -121,6 +122,7 @@ LanguageTool
 	- no difficulties navigating, always goes back to ready to write
 		- browser is bad
 		- cli best
+			- copilot cli?
 	- needs to be open at all times
 - Ask quick questions where I don't care about the history
 	- use separately from separate window

@@ -6,6 +6,8 @@ What I want is to have fun with people and explore the world we live in while I'
 
 My friends say they can't play because of some broken system. If I help, we can start playing sooner...
 
+# Singular goals
+
 Helper of Humanity
 - Help anyone personally if I have the time
 - Help shape the world to make it better
@@ -43,3 +45,23 @@ When conscious and thinking about my life in general level, feel relaxed and fee
 Life mostly in small bursts
 - Instead of going into 2 hour flow-state, I'd by default be conscious and go back and forth with the environment and data handling using Ajarak.
 - Become kind of a machine that people give prompts to and I do multistep work to give back an output.
+
+# The bigger structure
+- Create solutions for world peace
+	- Get feedback
+		- Expand my understanding
+		- Fix it if possible
+	- Create questions
+		- Research the answers
+- Connect with people
+	- increase productivity of others
+	- Increase my productivity
+- Get rich
+	- Increase productivity of others
+	- Increase my productivity
+- Increase my productivity
+	- Ajarak
+	- Working processes
+	- Physically
+	- Research -> better solutions, more money, find people
+		- News

@@ -35,6 +35,8 @@ Receiving opportunities
 - Browse people
 # Life-Work
 AI
+- Learning
+	- The Rundown AI University free 14 days
 - Building AI models/systems
 	- Use AI via api
 	- Run the model locally

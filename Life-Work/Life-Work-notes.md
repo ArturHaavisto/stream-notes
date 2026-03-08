@@ -53,5 +53,10 @@ time in the future.
 
 The following whiteboard includes the big picture of my plan and life
 
-![[large-canvas.svg]]
+# Possible work positions
+- Think tank
+
+
+# Random
+https://consumerrights.wiki/w/Main_Page
 

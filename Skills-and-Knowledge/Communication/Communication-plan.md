@@ -29,6 +29,9 @@ Communication
 - Learn new vocabulary and use them in sentences.
 - Learn grammar.
 
+## Sign language?
+
+
 # Languages
 ## English
 - AI tools (gemini). Be able to have a conversation with AI

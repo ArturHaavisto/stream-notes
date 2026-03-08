@@ -9,3 +9,5 @@
 - Raster
 # Inkscape
 - Vectors
+
+# Clip studio?
