@@ -1,0 +1,2 @@
+- Random talk
+- Developing Kipnuni website
