@@ -1,0 +1,2 @@
+- Random yap
+- Improving how I use AI

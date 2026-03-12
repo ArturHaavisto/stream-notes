@@ -1,0 +1,3 @@
+
+# From AI University
+Help me create the text for a presentation about (INSERT USE CASE). It should be about (X) slides long. The final output should be text that I can paste into Gamma.app to create the presentation. Separate each slide with "---" so that Gamma knows where each slide is separated. The main points I would like to cover are: (INSERT MAIN POINTS) I have attached documents to give you additional information and context. Interview me to get all the information you need to make the text for this presentation."
