@@ -1,0 +1,1 @@
+- Developing more active social role
