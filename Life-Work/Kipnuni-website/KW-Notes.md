@@ -48,6 +48,13 @@ create a component that is an icon that I can easily add almost anywhere in the 
 - Me
 - My future
 
+## Arrow navigation
+Instead of creating a normal navigation (top bar), I want to create a custom one. The front page will be the center page and there will be 4 pages on each sides of it. To navigate to a page, you use arrows. The arrows are on the sides of the page. On the "Now" page there is an arrow on top, right, bottom and left. The "Me" page is on the left side of the "Now" page and it has 3 arrow navigations: on the top right, on the center right, and on the bottom right. Other pages follow the same logic that the arrows are located on the sides or corners that are the direction of the pointed page. The pages locations are the following: Now - center, Link - right, My history - bottom, Me - left, My future - top.
+
+On the border of the site, there is this continuous area where the arrow-buttons are. There will be more icons and button there in the future. Inside of this, will be the main content area. The area will have all the content and the content inside can never go over the limits of the container. Because the borders will take space from the site and from the screen (especially on mobile), the content area while the border is visible is called the preview-page.
+
+The preview-page is supposed to show short versions of information about that page and it's vertically scrollable. When the preview page is clicked, the page will enlarge (only on mobile) to fill most of the screen, but having just a thin border to have a feeling of a popup. There are 2 x-buttons on the left and right side of the page that will close the popup to go back to the preview size and so show the arrow navigation again on the sides.
+
 ## Queries:
 - Youtube stream info card
 - Youtube stream live info

@@ -10,15 +10,17 @@
           {
             "id": "933674e3618d01d4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 64.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 65.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 64"
+              "title": "Stream 65"
             }
           },
           {
@@ -38,6 +40,38 @@
             }
           },
           {
+            "id": "e3e8b928149a70ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Management/My-Productivity.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "My-Productivity"
+            }
+          },
+          {
+            "id": "d6f926cda55666d0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Work/AI/AI-workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "AI-workflow"
+            }
+          },
+          {
             "id": "7d19a62c90eb349d",
             "type": "leaf",
             "pinned": true,
@@ -54,52 +88,9 @@
             }
           },
           {
-            "id": "395ead1f2170fa9f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Life-Management/large-canvas.excalidraw"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "large-canvas"
-            }
-          },
-          {
-            "id": "f8d346c71c0a9b99",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Work/AI/ai-notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "ai-notes"
-            }
-          },
-          {
-            "id": "0a4c783ac6071bdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Work/AI/Presentation-prompts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Presentation-prompts"
-            }
-          },
-          {
             "id": "793e22027fb0667d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -107,29 +98,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "KW-Notes"
             }
           },
           {
             "id": "0c7a2a3e4388c717",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Life-Work/Kipnuni-website/KW-canvas.canvas",
-                "viewState": {
-                  "x": 2196.906305480061,
-                  "y": 377.03140927597457,
-                  "zoom": -0.5432098720008653
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "KW-canvas"
-            }
-          },
-          {
-            "id": "4a4e5135cfe0594c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -139,8 +114,23 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-03-10 20.17.52.excalidraw"
             }
+          },
+          {
+            "id": "285f28636b3ea4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Work/AI/AI-workflow.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "AI-workflow"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -197,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5004348754883
+    "width": 238.50043487548828
   },
   "right": {
     "id": "208e5a54d8aef1a0",
@@ -303,22 +293,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "933674e3618d01d4",
+  "active": "285f28636b3ea4fb",
   "lastOpenFiles": [
-    "Life-Work/Youtube-Stream-notes/Stream 63.md",
-    "Life-Work/Youtube-Stream-notes/Stream 64.md",
+    "Life-Management/Self-Development.md",
+    "Life-Work/Kipnuni-website/KW-Notes.md",
+    "Life-Work/Kipnuni-website/env.md",
+    "Life-Work/Kipnuni-website/Drawing 2026-03-10 20.17.52.excalidraw.md",
+    "Life-Work/Kipnuni-website/KW-canvas.canvas",
+    "Life-Work/Youtube-Stream-notes/Stream 65.md",
+    "Life-Management/My-Productivity.md",
     "Life-Work/AI/ai-notes.md",
+    "Life-Work/AI/AI-workflow.md",
+    "Skills-and-Knowledge/Communication/English.md",
+    "Life-Work/AI/docs/Gmail - 🎯 Day 5_ How to build your personal AI action plan.pdf",
+    "Life-Work/Youtube-Stream-notes/Stream 64.md",
+    "Life-Work/Youtube-Stream-notes/Stream 63.md",
     "Life-Work/AI/docs/Gmail - 🧠 Day 4_ The 18 AI tools running my 8-figure business.pdf",
     "Life-Work/AI/Presentation-prompts.md",
     "Life-Work/AI/docs/Gmail - ⚡ Day 3_ Create presentations in minutes with AI.pdf",
     "Life-Work/AI/docs/Gmail - 🧪 Day 2_ The missing ingredient in your AI workflow.pdf",
     "Life-Work/AI/docs/Gmail - 💡 Day 1_ Why your AI prompts aren't working (and how to fix it).pdf",
-    "Life-Work/Kipnuni-website/KW-Notes.md",
     "Life-Management/Vision.md",
     "desktop.ini",
     "Life-Work/Youtube-Stream-notes/Stream 62.md",
-    "Life-Work/Kipnuni-website/Drawing 2026-03-10 20.17.52.excalidraw.md",
-    "Life-Work/Kipnuni-website/KW-canvas.canvas",
     "Life-Work/Kipnuni-website/Drawing 2026-03-10 18.58.16.excalidraw.md",
     "Life-Work/Kipnuni-website",
     "Life-Management/large-canvas.excalidraw",
@@ -328,22 +325,15 @@
     "Life-Work/Youtube-Stream-notes/Stream 61.md",
     "Life-Work/Democracy/EU.md",
     "Skills-and-Knowledge/Communication/Communication-changes.md",
-    "Skills-and-Knowledge/Communication/English.md",
     "Life-Work/Democracy/Ownership.md",
     "Life-Management/Living-place.md",
     "Life-Work/Community.md",
     "Life-Work/Democracy/Local/City.md",
     "Business/Startups.md",
     "Life-Work/Democracy/Local",
-    "Business/Business-notes.md",
-    "Life-Work/Life-Work-notes.md",
-    "Life-Work/XR/XR-notes.md",
-    "Skills-and-Knowledge/Draw.md",
     "Life-Work/XR",
-    "Life-Work/Solution-ideas.md",
     "Life-Management/Images/Pasted image 20260308214017.png",
     "Pasted image 20260308213959.png",
-    "Life-Work/Helper-of-Humanity",
     "Life-Management/Untitled.canvas",
     "Life-Management/Images/Pasted Image 20260216001042_175.png",
     "Life-Management/Images/Pasted Image 20260216001042_219.png",
