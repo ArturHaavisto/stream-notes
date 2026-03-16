@@ -1,0 +1,2 @@
+- Quick life update
+- Developing AI usage in my life

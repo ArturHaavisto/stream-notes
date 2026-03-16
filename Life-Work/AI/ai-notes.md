@@ -3,7 +3,7 @@
 - Whole code
 - Code completion
 - Strengths:
-	- Creating unit tests
+	- Creating unit tests+
 	- Documentation
 - Make ai do a detailed description plan.md
 - Snyk Open Source (DeepCode AI Agent)
