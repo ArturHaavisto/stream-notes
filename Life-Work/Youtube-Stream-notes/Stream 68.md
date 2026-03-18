@@ -1,0 +1,4 @@
+- Talking about my general feelings nowadays
+- Going through stuff in my life
+- Start researching world peace
+- Think about the plan forward
