@@ -1,0 +1,2 @@
+- How much can I change my social self?
+- Talking about going to a club
