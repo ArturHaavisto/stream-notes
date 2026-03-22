@@ -1,0 +1,3 @@
+- Talk about the nightclub experience
+- Job hunting process
+- Being happy about my life
