@@ -1,0 +1,2 @@
+- A quick talk about recent feelings
+- Developing Kipnuni website

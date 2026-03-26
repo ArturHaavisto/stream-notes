@@ -1,4 +1,15 @@
 # tmp
+- I need a separate animation layer for changing the page
+
+
+# Roadmap to MVP
+- Implement navigation (arrow+normal)
+- Initialize
+	- About
+	- Link
+	- My History
+	- My Future
+- Keep the authentication in mind when deciding tech and code choices
 
 # Plan
 - I want to host a functional version of the website with separate frontend, backend, and database
@@ -9,12 +20,54 @@
 - From the start, add security measures to code logic.
 ## Cookies
 - can be implemented later
-## Production specs
+## Production
 - Frontend: Azure static web app
 - Backend: Azure functions
 - Database: MongoDB Atlas
 	- Backups: manually. Create a script that I can run for example weekly on my pc and store in google drive
 	- Push new info on the website: local script to connect the backend api
+- (Think about the website size)
+## Pages
+- Now
+- Link
+- My history
+- Me
+- My future
+## Queries:
+- Youtube stream info card
+- Youtube stream live info
+
+## Links
+https://www.linkedin.com/in/arturhaavisto/
+
+https://www.instagram.com/kipnuni/
+
+https://www.facebook.com/kipnuni
+
+https://t.me/kipnuni
+
+mailto:contact.kipnuni@gmail.com
+# Ideas
+## Timeline
+create a page where there is a vertical timeline that represent my journey the timeline is in the middle and there are info cards on the sides, total in 4 columns when on desktop and tablet, and in 2 columns when in mobile. make the vertical line a bit flowy/snaky. on top of the line, put a current time and on right and left side of it, create a button that are links to other pages on the website. On the timeline, create clear sections with year numbers.
+## Info popup component
+create a component that is an icon that I can easily add almost anywhere in the website that opens a small (size can change) text, info card popup with an x to close it or when the user clicks outside of it, it closes too.
+
+
+## Navigation
+### Arrow navigation
+Instead of creating a normal navigation (top bar), I want to create a custom one. The front page will be the center page and there will be 4 pages on each sides of it. To navigate to a page, you use arrows. The arrows are on the sides of the page. On the "Now" page there is an arrow on top, right, bottom and left. The "Me" page is on the left side of the "Now" page and it has 3 arrow navigations: on the top right, on the center right, and on the bottom right. Other pages follow the same logic that the arrows are located on the sides or corners that are the direction of the pointed page. The pages locations are the following: Now - center, Link - right, My history - bottom, Me - left, My future - top.
+
+On the border of the site, there is this continuous area where the arrow-buttons are. There will be more icons and button there in the future. Inside of this, will be the main content area. The area will have all the content and the content inside can never go over the limits of the container. Because the borders will take space from the site and from the screen (especially on mobile), the content area while the border is visible is called the preview-page.
+
+The preview-page is supposed to show short versions of information about that page and it's vertically scrollable. When the preview page is clicked, the page will enlarge (only on mobile) to fill most of the screen, but having just a thin border to have a feeling of a popup. There are 2 x-buttons on the left and right side of the page that will close the popup to go back to the preview size and so show the arrow navigation again on the sides.
+
+### Normal navigation
+
+### (Game navigation)
+
+
+
 # Random Ideas
 - Multiple languages
 - Multiple themes (at least dark/light themes)
@@ -35,39 +88,3 @@
 - add swiping navigation as well
 	- swipe up or down on the side panel to move up or down
 - keep pressing the side or side buttons and they will expand to show their full texts instead of just icons. don't navigate or press that point though. set up a certain max press length for actually navigation/clicking. is this even possible?
-# Ideas
-## Timeline
-create a page where there is a vertical timeline that represent my journey the timeline is in the middle and there are info cards on the sides, total in 4 columns when on desktop and tablet, and in 2 columns when in mobile. make the vertical line a bit flowy/snaky. on top of the line, put a current time and on right and left side of it, create a button that are links to other pages on the website. On the timeline, create clear sections with year numbers.
-## Info popup component
-create a component that is an icon that I can easily add almost anywhere in the website that opens a small (size can change) text, info card popup with an x to close it or when the user clicks outside of it, it closes too.
-
-## Pages
-- Now
-- Link
-- My history
-- Me
-- My future
-
-## Arrow navigation
-Instead of creating a normal navigation (top bar), I want to create a custom one. The front page will be the center page and there will be 4 pages on each sides of it. To navigate to a page, you use arrows. The arrows are on the sides of the page. On the "Now" page there is an arrow on top, right, bottom and left. The "Me" page is on the left side of the "Now" page and it has 3 arrow navigations: on the top right, on the center right, and on the bottom right. Other pages follow the same logic that the arrows are located on the sides or corners that are the direction of the pointed page. The pages locations are the following: Now - center, Link - right, My history - bottom, Me - left, My future - top.
-
-On the border of the site, there is this continuous area where the arrow-buttons are. There will be more icons and button there in the future. Inside of this, will be the main content area. The area will have all the content and the content inside can never go over the limits of the container. Because the borders will take space from the site and from the screen (especially on mobile), the content area while the border is visible is called the preview-page.
-
-The preview-page is supposed to show short versions of information about that page and it's vertically scrollable. When the preview page is clicked, the page will enlarge (only on mobile) to fill most of the screen, but having just a thin border to have a feeling of a popup. There are 2 x-buttons on the left and right side of the page that will close the popup to go back to the preview size and so show the arrow navigation again on the sides.
-
-## Queries:
-- Youtube stream info card
-- Youtube stream live info
-
-Links
-https://www.linkedin.com/in/arturhaavisto/
-
-https://www.instagram.com/kipnuni/
-
-https://www.facebook.com/kipnuni
-
-https://t.me/kipnuni
-
-mailto:contact.kipnuni@gmail.com
-
-

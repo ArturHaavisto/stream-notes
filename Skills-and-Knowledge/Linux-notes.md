@@ -51,6 +51,17 @@
 - Widely used for cloud deployments
 - GNOME-based but differs visually
 ## Ubuntu
+sudo apt update
+- Fetches new updates
+
+sudo apt upgrade -y
+- upgrades the packages
+- -y flag says yes to all confirmation prompts
+
+sudo apt autoremove -y
+sudo apt autoclean
+- removes old, unnecessary files
+
 ## Linux Mint
 
 ## Scientific Linux

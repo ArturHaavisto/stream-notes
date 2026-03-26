@@ -677,7 +677,247 @@
       },
       "active": "a3f5202b718efbe6",
       "mtime": "2025-10-21T08:47:42+03:00"
+    },
+    "Kipnuni-website": {
+      "main": {
+        "id": "cc01d72a9f87ad8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "5f2eacf7012a6de9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f6e6f05d0e3b12e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Life-Work/Kipnuni-website/KW-canvas.canvas",
+                    "viewState": {
+                      "x": 1916.037633706962,
+                      "y": 378.23123934093155,
+                      "zoom": -0.6709680318951778
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "KW-canvas"
+                }
+              },
+              {
+                "id": "70dc07e889d3dbed",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Life-Work/Kipnuni-website/KW-Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "KW-Notes"
+                }
+              },
+              {
+                "id": "d7373e9065c9c638",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Life-Work/Kipnuni-website/env.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "env"
+                }
+              },
+              {
+                "id": "4711272769a80362",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Life-Work/Kipnuni-website/Drawing 2026-03-10 20.17.52.excalidraw.md"
+                  },
+                  "pinned": true,
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2026-03-10 20.17.52.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c573778eb96b19f0",
+        "type": "split",
+        "children": [
+          {
+            "id": "ea7da6dcdc74209b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e6fc1270a39d39c3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "a802029fd85d5de4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "e5b8f863ebfbc936",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 318.5004348754883
+      },
+      "right": {
+        "id": "208e5a54d8aef1a0",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ca1c6729f4529bd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0639e490b5c3cf82",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Youtube Stream notes/Stream 19.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Stream 19"
+                }
+              },
+              {
+                "id": "8fd8bf20107c6cbc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Youtube Stream notes/Stream 19.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Stream 19"
+                }
+              },
+              {
+                "id": "ab43a62b9450f55e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2014ecc979697556",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Youtube Stream notes/Stream 19.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Stream 19"
+                }
+              },
+              {
+                "id": "e20b0eec5adcb05d",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "advanced-tables-toolbar"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "custom-sort:Toggle custom sorting": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "3f6e6f05d0e3b12e",
+      "mtime": "2026-03-25T23:03:10+02:00"
     }
   },
-  "active": "Main"
+  "active": "Kipnuni-website"
 }
