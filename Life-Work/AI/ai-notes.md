@@ -161,10 +161,57 @@ LanguageTool
 - alias ask='aichat -f context.md'
 
 ### AI assistant
+#### Potential
+- Read my emails and notify me for everything important
+	- Only local model
+- Read RSS feeds and apis and collect interesting material for me
+	- News sites
+	- Youtube
+	- Reddit
+- Job opportunities
+- Social media
+- Research history
+- Develop my business
+- Develop itself (read ai developments)
+	- Make it teach me how to control it
+	- Dashboard view of the whole system
+- Plan my days and update them. Roadmaps
+- Have a light interface open while I work that listens me and I can easily ask it for something.
+- It should have access to my notes (obsidian)
+	- It could have write access and it could communicate by the notes
+- It constantly asks questions for me to clarify what I want
+	- Gamify it
+- Anki usage
+- It has access to my calendar
+- Mac Mini M1
+	- Could I use this as the 24/7 machine?
+- Main PC that can run more powerful local ais
+	- Before this, use online services
+- Handle stream notes
+	- Audio to transcript
+		- ask clarifying questions of it
+	- Read the note changes
+	- Update the notes on the website
+		- show "verified" ones differently
+- Character
+	- For personal life
+	- Neutral
+	- It
+	- Personality
+		- Mental age: 20
+		- Energetic and enthusiastic
+		- Motivating
+		- Aiming for the same goal - World Peace
+	- Name?
+	- Physical representation?
+		- Animal (some social animal on land)
+		- Humanoid
+- It won't be a mirror of me and will develop it's own personality and history in the future. The knowledge of me will be on it's own place.
 #### On PC
 - Having a constant conversation on
+- 24/7 work on a local machine
 #### On phone
-
+- Chat through Telegram/Slack
 
 
 # Building AI

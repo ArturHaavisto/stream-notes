@@ -1,0 +1,2 @@
+- Quick life update
+- 24/4 AI assistant on my machine

@@ -60,3 +60,6 @@ The following whiteboard includes the big picture of my plan and life
 # Random
 https://consumerrights.wiki/w/Main_Page
 
+## Rethinking Democracy online event
+- Resource links are on Firefox
+![[Pasted image 20260326214007.png]]
