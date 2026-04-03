@@ -1,0 +1,1 @@
+- Looking into turning my Mac Mini into 24/7 AI

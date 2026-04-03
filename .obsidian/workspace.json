@@ -10,17 +10,15 @@
           {
             "id": "967a190d663c929d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 72.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 73.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 72"
+              "title": "Stream 73"
             }
           },
           {
@@ -84,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,13 +245,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40c06fe40ec4ea34",
+  "active": "758ae857fb4c1c8f",
   "lastOpenFiles": [
-    "Life-Management/large-canvas.excalidraw",
     "Life-Work/AI/ai-notes.md",
+    "Life-Management/large-canvas.excalidraw",
+    "Life-Work/Youtube-Stream-notes/Stream 73.md",
+    "Life-Work/Youtube-Stream-notes/Stream 72.md",
     "Life-Work/AI/AI-workflow.md",
     "Life-Management/Vision.md",
-    "Life-Work/Youtube-Stream-notes/Stream 72.md",
     "Life-Work/Youtube-Stream-notes/Stream 45.md",
     "Life-Work/Kipnuni-website/Me-page.md",
     "Life-Work/Kipnuni-website/env.md",
@@ -282,7 +281,6 @@
     "Life-Management/Untitled.base",
     "Business/Startups.md",
     "Business/Jobs",
-    "Business/Untitled.md",
     "Life-Work/World-Peace/Global Peace Initiatives Research Overview.pdf",
     "Life-Work/World-Peace",
     "Life-Work/New folder",
