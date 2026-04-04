@@ -24,3 +24,5 @@ dnsTunneling=true
 
 wsl --shutdown
 
+
+- pretext to fix dynamic text in a webpage

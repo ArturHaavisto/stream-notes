@@ -207,6 +207,11 @@ LanguageTool
 		- Animal (some social animal on land)
 		- Humanoid
 - It won't be a mirror of me and will develop it's own personality and history in the future. The knowledge of me will be on it's own place.
+
+- Use tools like creating docx files
+- Create dashboards
+- Using private online servers?
+
 #### On PC
 - Having a constant conversation on
 - 24/7 work on a local machine

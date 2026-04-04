@@ -1,0 +1,3 @@
+- Developing the Mac AI plan
+- Watching the latest tech happenings
+- Installing OpenClaw
