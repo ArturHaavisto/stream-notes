@@ -46,6 +46,13 @@ Life mostly in small bursts
 - Instead of going into 2 hour flow-state, I'd by default be conscious and go back and forth with the environment and data handling using Ajarak.
 - Become kind of a machine that people give prompts to and I do multistep work to give back an output.
 
+Being the leader of my life and not expecting answers to come from outside
+- I like teaching
+- When I come across to a problem, I know I have to deal with it
+- I can lead others
+- I'm not waiting for others
+- Becoming selfish
+
 # The bigger structure
 - Create solutions for world peace
 	- Get feedback

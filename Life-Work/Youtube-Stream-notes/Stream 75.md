@@ -1,0 +1,3 @@
+- Talk about my current situation
+- Start planning the developments
+- Doing some self-development

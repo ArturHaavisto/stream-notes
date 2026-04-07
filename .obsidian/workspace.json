@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 74.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 75.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 74"
+              "title": "Stream 75"
             }
           },
           {
@@ -105,12 +105,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills-and-Knowledge/Programming/Programming notes.md",
+                "file": "Life-Management/Self-Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming notes"
+              "title": "Self-Development"
+            }
+          },
+          {
+            "id": "b8b7072fb454bbe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Management/Vision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vision"
             }
           }
         ]
@@ -170,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5004348754883,
-    "collapsed": true
+    "width": 356.5004348754883
   },
   "right": {
     "id": "208e5a54d8aef1a0",
@@ -279,15 +292,20 @@
   },
   "active": "f147b06e913d538c",
   "lastOpenFiles": [
-    "Life-Work/AI/Mac-Mini-AI.md",
-    "Life-Work/Youtube-Stream-notes/Stream 74.md",
+    "Life-Management/Vision.md",
+    "Life-Work/Youtube-Stream-notes/Stream 75.md",
+    "Life-Management/Self-Development.md",
+    "Life-Management/My-Productivity.md",
+    "Life-Management/Productivity-notes.md",
     "Skills-and-Knowledge/Programming/Programming notes.md",
+    "Life-Management/Untitled.base",
+    "Life-Work/Youtube-Stream-notes/Stream 74.md",
+    "Life-Work/AI/Mac-Mini-AI.md",
     "Life-Work/AI/ai-notes.md",
     "Life-Management/large-canvas.excalidraw",
     "Life-Work/Youtube-Stream-notes/Stream 73.md",
     "Life-Work/Youtube-Stream-notes/Stream 72.md",
     "Life-Work/AI/AI-workflow.md",
-    "Life-Management/Vision.md",
     "Life-Work/Youtube-Stream-notes/Stream 45.md",
     "Life-Work/Kipnuni-website/Me-page.md",
     "Life-Work/Kipnuni-website/env.md",
@@ -302,16 +320,12 @@
     "Skills-and-Knowledge/Linux-notes.md",
     "Life-Work/Youtube-Stream-notes/Stream 71.md",
     "Life-Management/Todo.md",
-    "Life-Management/My-Productivity.md",
     "Skills-and-Knowledge/Communication/English.md",
     "Business/Finding-work.md",
     "Life-Work/World-Peace-canvas.canvas",
     "Life-Work/World-Peace.md",
-    "Life-Work/Youtube-Stream-notes/Stream 70.md",
     "Life-Work/AI/docs/12-AI-Visuals.pdf",
-    "Life-Work/World-Peace-drawing.md",
     "Life-Management/Untitled.canvas",
-    "Life-Management/Untitled.base",
     "Business/Jobs",
     "Life-Work/World-Peace/Global Peace Initiatives Research Overview.pdf",
     "Life-Work/World-Peace",
