@@ -1,0 +1,2 @@
+- Update on my current moment in life
+- Doing self-developments
