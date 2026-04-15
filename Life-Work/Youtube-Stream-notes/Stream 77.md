@@ -1,0 +1,3 @@
+- Quick update on the last day
+- Researching ideologies
+- Start reading The Communist Manifesto

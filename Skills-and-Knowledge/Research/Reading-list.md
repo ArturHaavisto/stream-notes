@@ -1,0 +1,12 @@
+- The Communist Manifesto
+- Quotations from Cairman Mao Tse-tung (The Little Red Book)
+- The State and Revolution by Vladimir Lenin
+- The Wealth of Nations by Adam Smith
+- Capitalism and Freedom by Milton Friedman
+- The Road to Serfdom by Friedrich Hayek
+- Second Treatise of Government by John Locke
+- On Liberty by John Stuart Mill
+- Democracy in America
+- Wild Swans by Jung Chang
+
+- Quran
