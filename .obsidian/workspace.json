@@ -10,17 +10,15 @@
           {
             "id": "f147b06e913d538c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 77.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 78.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 77"
+              "title": "Stream 78"
             }
           },
           {
@@ -155,8 +153,7 @@
               "title": "Communism"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.50043487548828,
-    "collapsed": true
+    "width": 225.50043487548828
   },
   "right": {
     "id": "208e5a54d8aef1a0",
@@ -320,11 +316,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99aaf622e3e11fb9",
+  "active": "f147b06e913d538c",
   "lastOpenFiles": [
-    "Skills-and-Knowledge/Research/Reading-list.md",
-    "Skills-and-Knowledge/Research/Communism.md",
     "Life-Work/Youtube-Stream-notes/Stream 77.md",
+    "Life-Work/Youtube-Stream-notes/Stream 78.md",
+    "Skills-and-Knowledge/Research/Communism.md",
+    "Skills-and-Knowledge/Research/Reading-list.md",
     "Life-Work/Youtube-Stream-notes/Stream 76.md",
     "desktop.ini",
     "Life-Work/Youtube-Stream-notes/Stream 75.md",
@@ -353,7 +350,6 @@
     "Life-Work/AI/Instructions",
     "Life-Work/AI/AI-Board.md",
     "Skills-and-Knowledge/Linux-notes.md",
-    "Life-Work/Youtube-Stream-notes/Stream 71.md",
     "Life-Work/World-Peace-canvas.canvas",
     "Life-Work/AI/docs/12-AI-Visuals.pdf",
     "Life-Management/Untitled.canvas",

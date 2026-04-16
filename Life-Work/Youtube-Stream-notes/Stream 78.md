@@ -1,0 +1,3 @@
+- Start talk
+- Thinking about my possible paths in life
+- Create a script to automate notes to github
