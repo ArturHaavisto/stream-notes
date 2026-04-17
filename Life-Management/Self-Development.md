@@ -15,3 +15,15 @@ One task:
 
 One-mode:
 - Practice switching from topic to topic using Ajarak
+
+
+# Control
+## Use other people
+- Find a person who wants to share motivation
+	- Text messages throughout the day
+	- Joint working sessions
+	- Video calls
+	- Phone calls
+	- Joint projects
+	- Creating a "contract" between parties
+- Accountability Circle

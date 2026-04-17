@@ -10,15 +10,17 @@
           {
             "id": "f147b06e913d538c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 78.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 79.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 78"
+              "title": "Stream 79"
             }
           },
           {
@@ -38,6 +40,20 @@
             }
           },
           {
+            "id": "02efb710fe20770f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Life-Management/large-canvas.excalidraw"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "large-canvas"
+            }
+          },
+          {
             "id": "b01d197aa974e9d2",
             "type": "leaf",
             "pinned": true,
@@ -54,52 +70,9 @@
             }
           },
           {
-            "id": "758ae857fb4c1c8f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Life-Management/large-canvas.excalidraw"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "large-canvas"
-            }
-          },
-          {
-            "id": "967a190d663c929d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Work/AI/Mac-Mini-AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Mac-Mini-AI"
-            }
-          },
-          {
-            "id": "40c06fe40ec4ea34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Work/AI/ai-notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ai-notes"
-            }
-          },
-          {
             "id": "125b0c058e830988",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -107,6 +80,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Self-Development"
             }
@@ -126,34 +100,24 @@
             }
           },
           {
-            "id": "bdd0b7dbdac7e270",
+            "id": "caba6db8a0de1c99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Skills-and-Knowledge/Research/Reading-list.md",
-                "mode": "source",
-                "source": false
+                "file": "Life-Management/Schedule.canvas",
+                "viewState": {
+                  "x": -16.392236686912213,
+                  "y": -86.83805753310385,
+                  "zoom": 0.9645061700005408
+                }
               },
-              "icon": "lucide-file",
-              "title": "Reading-list"
-            }
-          },
-          {
-            "id": "99aaf622e3e11fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills-and-Knowledge/Research/Communism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Communism"
+              "icon": "lucide-layout-dashboard",
+              "title": "Schedule"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -316,17 +280,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f147b06e913d538c",
+  "active": "02efb710fe20770f",
   "lastOpenFiles": [
-    "Life-Work/Youtube-Stream-notes/Stream 77.md",
+    "Life-Management/Self-Development.md",
+    "Life-Management/large-canvas.excalidraw",
+    "Life-Management/Schedule.canvas",
+    "Life-Management/Todo.md",
+    "Life-Management/Vision.md",
+    "Life-Work/Youtube-Stream-notes/Stream 79.md",
     "Life-Work/Youtube-Stream-notes/Stream 78.md",
+    "Life-Work/Youtube-Stream-notes/Stream 77.md",
     "Skills-and-Knowledge/Research/Communism.md",
     "Skills-and-Knowledge/Research/Reading-list.md",
     "Life-Work/Youtube-Stream-notes/Stream 76.md",
     "desktop.ini",
     "Life-Work/Youtube-Stream-notes/Stream 75.md",
-    "Life-Management/Vision.md",
-    "Life-Management/Self-Development.md",
     "Life-Management/My-Productivity.md",
     "Life-Management/Productivity-notes.md",
     "Skills-and-Knowledge/Programming/Programming notes.md",
@@ -334,7 +302,6 @@
     "Life-Work/Youtube-Stream-notes/Stream 74.md",
     "Life-Work/AI/Mac-Mini-AI.md",
     "Life-Work/AI/ai-notes.md",
-    "Life-Management/large-canvas.excalidraw",
     "Life-Work/Youtube-Stream-notes/Stream 73.md",
     "Life-Work/Youtube-Stream-notes/Stream 72.md",
     "Life-Work/AI/AI-workflow.md",
@@ -346,13 +313,9 @@
     "Life-Work/Kipnuni-website/Drawing 2026-03-10 20.17.52.excalidraw.md",
     "Life-Work/Kipnuni-website/KW-canvas.canvas",
     "Life-Management/Images/Pasted image 20260326214007.png",
-    "Life-Work/AI/AI-Instructions.md",
     "Life-Work/AI/Instructions",
-    "Life-Work/AI/AI-Board.md",
-    "Skills-and-Knowledge/Linux-notes.md",
     "Life-Work/World-Peace-canvas.canvas",
     "Life-Work/AI/docs/12-AI-Visuals.pdf",
-    "Life-Management/Untitled.canvas",
     "Business/Jobs",
     "Life-Work/World-Peace/Global Peace Initiatives Research Overview.pdf",
     "Life-Work/World-Peace",
