@@ -1,0 +1,24 @@
+
+# Swapcard profile
+- What am I hoping to get out of the event
+	- Networking
+		- Understand people/the world
+		- Connect with people I might want to work with later
+	- Learn about opportunities
+		- What kind of opportunities would I be interested of?
+			- The ones that take me abroad
+			- Projects/positions that do good and have flexibility to improve and develop
+				- ???
+			- Join projects with my free time
+			- Shadowing
+	- Get feedback and insights to my plans
+		- What are my plans???
+			- Demcom platform
+			- Gamifying Politics
+			- AI Startups
+			- Move to Helsinki.
+			- Find a normal job that develops my skills
+			- Figure out my creative potential before choosing a path?
+		- Create a pitch deck about me
+- How I can help others
+	- I can give my deep thinking practical viewpoints to your ideas and projects

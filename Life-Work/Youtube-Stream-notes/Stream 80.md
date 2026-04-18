@@ -1,0 +1,9 @@
+- Schedule the day
+- EAGx Nordics preparation
+- Ajarak development
+- Going through job listings
+- Communication development
+- Developing personal AI - Zilizum
+- Learning Chinese
+- EAGx Nordics preparation
+- How far do I need to develop?

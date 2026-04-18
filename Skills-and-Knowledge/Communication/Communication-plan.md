@@ -1,4 +1,3 @@
-
 # Verbal
 - Think of a word/concept. Then, start talking about it and don't stop. Move from thought to thought. The aim is to improvise and not lose flow.
 
@@ -25,6 +24,7 @@ Communication
 	- New life experience
 	- Reading people
 	- Easier to approach
+	- Why not? If I could, shouldn't I?
 - Learn to pronounce difficult sentences. Acting lessons, warm up.
 - Learn new vocabulary and use them in sentences.
 - Learn grammar.
