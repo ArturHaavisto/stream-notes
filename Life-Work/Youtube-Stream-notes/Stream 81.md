@@ -1,0 +1,4 @@
+- Creating a new high level "spiritual" target
+- Clarifying my future plans
+- Updating my swapcard profile for EAGx
+- Applying for jobs

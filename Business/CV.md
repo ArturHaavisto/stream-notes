@@ -29,7 +29,7 @@ Tampereen yliopisto
 Työkokemus
 2025 eteenpäin - Gamifying Politics
 - Luomme web-pohjaista peliä, missä pelillistetään eduskuntapolitiikan seuraamista
-2024 eteenpäin - Henkilökohtainen avustaja
+2024-2026 - Henkilökohtainen avustaja
 2025 - Journalism in Metaverse
 - 2kk Demola projekti, missä visioimme ja loimme uutisartikkelin Unityllä virtuaalisessa todellisuudessa
 2024 - Smart City projekti
