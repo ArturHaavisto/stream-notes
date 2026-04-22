@@ -1,0 +1,2 @@
+- World Peace being the only option
+- Applying for 3 jobs
