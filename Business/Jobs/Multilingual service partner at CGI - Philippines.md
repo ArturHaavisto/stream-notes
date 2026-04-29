@@ -30,3 +30,19 @@
 				- More pay
 			- AI assisted software developer
 			- Startup Founder
+
+
+2-4 weeks
+6 months regular
+15 days sick leave
+15 days a year
+language premium
+rice allowance
+bond, 1 year
+15. day 30
+2 year visa
+wait 1 month
+daily allowance
+business visa
+5 weeks at least wait
+language - technical - 

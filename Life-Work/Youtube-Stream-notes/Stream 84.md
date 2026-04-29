@@ -1,0 +1,2 @@
+- Talk about EAGx Nordics
+- Update on life and my future
