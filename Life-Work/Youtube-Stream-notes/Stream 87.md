@@ -1,0 +1,2 @@
+- Researching the possible job in the Philippines
+- Talk about my future setup

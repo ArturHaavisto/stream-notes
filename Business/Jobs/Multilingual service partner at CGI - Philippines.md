@@ -1,7 +1,19 @@
-- Working in Philippines
+- Working in the Philippines
+	- The cost of living
+		- Rent
+			- Single/Dorm
+		- Utilities
+			- Electricity
+			- Water
+			- Internet
+			- AC
+		- Commute
+		- Food
+			- How difficult would be to be vegan?
+		- Tech?
+			- Would some services I use stop or change there?
 - Pay
 	- 1750 euros
-
 
 - The job itself
 	- How does it help my goals?
