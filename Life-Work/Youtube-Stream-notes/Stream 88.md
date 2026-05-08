@@ -1,0 +1,13 @@
+- Start talk
+- Update on the Philippines job
+- Planning what's next
+- Kipnuni Technique
+- Learning Filipino
+- Kipnuni Technique
+- Food
+- Kipnuni Technique
+- Ajarak development
+- Kipnuni Technique
+- Food
+- Kipnuni Technique
+- Communication development

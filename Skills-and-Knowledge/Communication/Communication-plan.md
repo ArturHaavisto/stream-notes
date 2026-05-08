@@ -39,7 +39,7 @@ Communication
 ## The same methods for Chinese and Arabic
 - What is the goal?
 	- Getting a better understanding of the culture
-	- It's fun
+	- It's fun 
 	- Be able to speak in that language, scalably
 - What is the best method of learning it?
 	- Language Islands
