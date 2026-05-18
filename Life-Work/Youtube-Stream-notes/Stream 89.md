@@ -1,0 +1,3 @@
+- Life update
+- Developing my personal passion
+- Kpop update

@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 88.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 90.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 88"
+              "title": "Stream 90"
             }
           },
           {
@@ -145,6 +145,20 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "KT-notes"
+            }
+          },
+          {
+            "id": "aed04322f2555390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life-Management/Setup.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Setup"
             }
           }
         ]
@@ -312,6 +326,12 @@
   },
   "active": "f147b06e913d538c",
   "lastOpenFiles": [
+    "Life-Management/large-canvas.excalidraw",
+    "Life-Management/Setup.md",
+    "Life-Work/Youtube-Stream-notes/Stream 90.md",
+    "Life-Work/Youtube-Stream-notes/Stream 89.md",
+    "Life-Work/Youtube-Stream-notes/Stream 88.md",
+    "Life-Management/Todo.md",
     "Life-Work/Kipnuni-Technique/lu243807ng49.tmp",
     "Life-Management/lu243807ng46.tmp",
     "Life-Work/Kipnuni-Technique/lu243807ng43.tmp",
@@ -322,12 +342,8 @@
     "Life-Work/Kipnuni-Technique/lu243807ng3o.tmp",
     "Life-Work/Kipnuni-Technique/KT-notes.md",
     "Skills-and-Knowledge/Communication/Communication-plan.md",
-    "Life-Work/Youtube-Stream-notes/Stream 88.md",
     "Life-Work/Kipnuni-Technique/lu243807ng3l.tmp",
-    "Life-Work/Kipnuni-Technique/lu243807ng3i.tmp",
-    "Life-Work/Kipnuni-Technique/lu243807ng3f.tmp",
     "Skills-and-Knowledge/Communication/Filipino.md",
-    "Life-Management/Todo.md",
     "Life-Work/Youtube-Stream-notes/Stream 87.md",
     "Business/Jobs/Multilingual service partner at CGI - Philippines.md",
     "Life-Work/Youtube-Stream-notes/Stream 86.md",
@@ -346,9 +362,6 @@
     "Business/LinkedIn.md",
     "Life-Management/Vision.md",
     "Life-Management/Self-Development.md",
-    "Life-Work/Youtube-Stream-notes/Stream 80.md",
-    "Life-Work/AI/ai-notes.md",
-    "Life-Work/AI/AI-Instructions.md",
     "Life-Management/Schedule.canvas",
     "Life-Management/Images/Pasted image 20260326214007.png",
     "Life-Work/World-Peace-canvas.canvas",

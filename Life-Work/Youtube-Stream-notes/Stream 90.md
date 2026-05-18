@@ -1,0 +1,9 @@
+- Life update
+	- Thoughts about the Philippines opportunity
+	- The interview
+	- Trying to put my thoughts together
+	- Purchases I made
+- What's next
+- Go through my Life Work profile
+	- and streaming setup
+- End yapping
