@@ -1,0 +1,9 @@
+- Talk about 
+- MacOS setup
+	- UTM VM
+		- Try Arch
+		- Switch to Ubuntu
+		- Try to get obsidian working, didn't succeed
+		- Broke firefox as well
+- Mapping options to move to Taiwan
+- Random talk about life

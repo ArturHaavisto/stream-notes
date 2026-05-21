@@ -10,17 +10,15 @@
           {
             "id": "f147b06e913d538c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 90.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 91.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 90"
+              "title": "Stream 91"
             }
           },
           {
@@ -49,8 +47,8 @@
                 "file": "Life-Management/large-canvas.excalidraw"
               },
               "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "large-canvas"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -326,9 +324,11 @@
   },
   "active": "f147b06e913d538c",
   "lastOpenFiles": [
+    "Life-Work/Youtube-Stream-notes/Stream 90.md",
+    "Life-Work/Youtube-Stream-notes/Stream 91.md",
+    "Skills-and-Knowledge/Communication/English.md",
     "Life-Management/large-canvas.excalidraw",
     "Life-Management/Setup.md",
-    "Life-Work/Youtube-Stream-notes/Stream 90.md",
     "Life-Work/Youtube-Stream-notes/Stream 89.md",
     "Life-Work/Youtube-Stream-notes/Stream 88.md",
     "Life-Management/Todo.md",
@@ -354,7 +354,6 @@
     "Life-Work/Kipnuni-website/Now-page.md",
     "Life-Work/Kipnuni-website/KW-Notes.md",
     "Life-Work/Kipnuni-website/KW-canvas.canvas",
-    "Skills-and-Knowledge/Communication/English.md",
     "Business/Finding-work.md",
     "Life-Work/Youtube-Stream-notes/Stream 81.md",
     "Business/CV.md",
