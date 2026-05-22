@@ -10,31 +10,17 @@
           {
             "id": "f147b06e913d538c",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 91.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stream 91"
-            }
-          },
-          {
-            "id": "a64efdc418d988fa",
-            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills-and-Knowledge/Communication/English.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 92.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "English"
+              "title": "Stream 92"
             }
           },
           {
@@ -47,116 +33,22 @@
                 "file": "Life-Management/large-canvas.excalidraw"
               },
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "large-canvas"
             }
           },
           {
-            "id": "5fd8dd2f7dc886b8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Work/EAGx-Nordics-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "EAGx-Nordics-26"
-            }
-          },
-          {
-            "id": "b01d197aa974e9d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Management/Vision.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Vision"
-            }
-          },
-          {
-            "id": "125b0c058e830988",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Management/Self-Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Self-Development"
-            }
-          },
-          {
-            "id": "8594c1f664cbd352",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Management/Ajarak.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Ajarak"
-            }
-          },
-          {
-            "id": "b8b7072fb454bbe8",
+            "id": "5ed501ef61d9adfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Management/Todo.md",
+                "file": "Business/Finding-work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
-            }
-          },
-          {
-            "id": "30961cb95861958e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Work/Kipnuni-Technique/KT-notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "KT-notes"
-            }
-          },
-          {
-            "id": "aed04322f2555390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life-Management/Setup.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Setup"
+              "title": "Finding-work"
             }
           }
         ]
@@ -324,11 +216,15 @@
   },
   "active": "f147b06e913d538c",
   "lastOpenFiles": [
-    "Life-Work/Youtube-Stream-notes/Stream 90.md",
-    "Life-Work/Youtube-Stream-notes/Stream 91.md",
-    "Skills-and-Knowledge/Communication/English.md",
+    "Business/Finding-work.md",
     "Life-Management/large-canvas.excalidraw",
+    "Life-Work/Kipnuni-Technique/KT-notes.md",
+    "Life-Work/Youtube-Stream-notes/Stream 92.md",
+    "Business/Business-notes.md",
     "Life-Management/Setup.md",
+    "Life-Work/Youtube-Stream-notes/Stream 91.md",
+    "Life-Work/Youtube-Stream-notes/Stream 90.md",
+    "Skills-and-Knowledge/Communication/English.md",
     "Life-Work/Youtube-Stream-notes/Stream 89.md",
     "Life-Work/Youtube-Stream-notes/Stream 88.md",
     "Life-Management/Todo.md",
@@ -340,7 +236,6 @@
     "Life-Work/Kipnuni-Technique/lu243807ng3u.tmp",
     "Life-Work/Kipnuni-Technique/lu243807ng3r.tmp",
     "Life-Work/Kipnuni-Technique/lu243807ng3o.tmp",
-    "Life-Work/Kipnuni-Technique/KT-notes.md",
     "Skills-and-Knowledge/Communication/Communication-plan.md",
     "Life-Work/Kipnuni-Technique/lu243807ng3l.tmp",
     "Skills-and-Knowledge/Communication/Filipino.md",
@@ -354,13 +249,9 @@
     "Life-Work/Kipnuni-website/Now-page.md",
     "Life-Work/Kipnuni-website/KW-Notes.md",
     "Life-Work/Kipnuni-website/KW-canvas.canvas",
-    "Business/Finding-work.md",
     "Life-Work/Youtube-Stream-notes/Stream 81.md",
     "Business/CV.md",
     "Life-Work/EAGx-Nordics-26.md",
-    "Business/LinkedIn.md",
-    "Life-Management/Vision.md",
-    "Life-Management/Self-Development.md",
     "Life-Management/Schedule.canvas",
     "Life-Management/Images/Pasted image 20260326214007.png",
     "Life-Work/World-Peace-canvas.canvas",

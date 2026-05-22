@@ -1,0 +1,7 @@
+- Applying for jobs
+	- First try to find 4 positions in Finland I could apply for
+	- Then if I have time, look for positions abroad
+	- (Didn't do this)
+- Changing my feelings around Ajarak usage
+- Going through what my future could look like
+	- + what I'd have to do for it
