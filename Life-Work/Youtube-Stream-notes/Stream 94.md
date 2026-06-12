@@ -1,0 +1,6 @@
+- Talk about next steps
+	- Sold my pc and stuff
+	- Ajarak status
+	- Employment status
+	- No streams maybe -> recording vlogs, new channel
+	- 
