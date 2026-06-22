@@ -76,14 +76,17 @@
 		- How to use AI
 		- How to revisit the information when I forget
 		- Speed of understanding and giving a response
-
-
-
-
-
-
-
-
+- Job
+	- Take a position that
+		- Gives me skills
+		- Is essential to world peace
+		- Has potential to grow/develop
+		- Enables other value outside of work
+	- Always aim to give the job to someone else eventually
+	- Become expert at it and teach it forward
+	- Increase productivity of others
+	- Help improve the work environment
+	- 
 
 
 
