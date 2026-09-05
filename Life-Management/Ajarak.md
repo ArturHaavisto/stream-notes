@@ -10,6 +10,7 @@
 - The aim is to feel the use of Ajarak is demanding
 - Try to make it easy
 - The first goal: just use it and try to build it.
+- How to make it fun? Are there some areas that are difficult/give anxiety?
 
 # Future development ideas
 - Build personas/characters

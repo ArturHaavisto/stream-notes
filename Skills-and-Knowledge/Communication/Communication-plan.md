@@ -5,6 +5,7 @@ Communication
 - fluency
 	- word -> word -> word
 - Research ways to improve communication
+- think what i want to say in head and say the sentence. did i focus on the sentence or the message? repeat
 
 # Non-verbal
 ## Eye contact

@@ -1,0 +1,11 @@
+- Show new streaming setup
+- What has changed on the notes
+- What is my current plan
+- Go over todos
+
+- Develop Kipnuni-website
+	- Focused on Now-page
+	- Thought about different reasons why people would come to my website
+	- Created ideas of how to show daily/weekly/monthly updates on a horizontal axis
+	- Thought about how people could personalize the views and feeds after signing up. That requires good code.
+	- 

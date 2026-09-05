@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"38f83dc077e78189","x":-1175,"y":390,"width":250,"height":60,"type":"text","text":"Central America"},
+		{"id":"f96a1086fae02bdd","x":-55,"y":590,"width":250,"height":60,"type":"text","text":"Northern Africa"},
+		{"id":"7032a85d33058092","x":70,"y":878,"width":250,"height":60,"type":"text","text":"Central Africa"},
+		{"id":"b1eb2e28f235e879","x":145,"y":1270,"width":250,"height":60,"type":"text","text":"Southern Africa"},
+		{"id":"9cffb5f672fea4c5","x":385,"y":810,"width":250,"height":60,"type":"text","text":"Eastern Africa"},
+		{"id":"c1eabb1b8ce6a4a2","x":-260,"y":810,"width":250,"height":60,"type":"text","text":"Western Africa"},
+		{"id":"c7c37e6a04a5ee0a","x":680,"y":200,"width":250,"height":60,"type":"text","text":"Central Asia"},
+		{"id":"23383bf70a62473d","x":-1050,"y":878,"width":250,"height":60,"type":"text","text":"South America"},
+		{"id":"0033e279b85ddd86","x":-1240,"y":20,"width":250,"height":60,"type":"text","text":"North America"},
+		{"id":"2883695b8bb412ab","x":-80,"y":-440,"width":250,"height":60,"type":"text","text":"Categorize by location"},
+		{"id":"ba2e3b62aa1493b1","x":1360,"y":145,"width":250,"height":55,"type":"text","text":"East Asia"},
+		{"id":"89c406992acda10b","x":1360,"y":650,"width":250,"height":60,"type":"text","text":"South East Asia"},
+		{"id":"ef979bba12d0f63f","x":1610,"y":1120,"width":250,"height":60,"type":"text","text":"Australia & Oceania"},
+		{"id":"cd3963651a6a6500","x":930,"y":530,"width":250,"height":60,"type":"text","text":"South Asia"},
+		{"id":"011e71e1ddc2752d","x":385,"y":360,"width":250,"height":60,"type":"text","text":"Middle East"},
+		{"id":"8c68dae71cdd21a3","x":-80,"y":300,"width":250,"height":60,"type":"text","text":"South Europe"},
+		{"id":"865137ade0761089","x":-440,"y":-10,"width":250,"height":60,"type":"text","text":"West Europe"},
+		{"id":"26dad5a45fb7872d","x":-105,"y":20,"width":250,"height":60,"type":"text","text":"Central Europe"},
+		{"id":"ae27ed652c584ca9","x":-80,"y":-280,"width":250,"height":60,"type":"text","text":"North Euorpe"},
+		{"id":"802b9122800e69b0","x":260,"y":-10,"width":250,"height":60,"type":"text","text":"Eastern Europe"}
+	],
+	"edges":[]
+}

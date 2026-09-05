@@ -53,6 +53,13 @@ Being the leader of my life and not expecting answers to come from outside
 - I'm not waiting for others
 - Becoming selfish
 
+Doing everything for others
+- Being interested in food
+	- Being able to recommend and made good food
+- Learning
+	- Teaching
+
+Personal contribution before helping others
 # The bigger structure
 - Create solutions for world peace
 	- Get feedback

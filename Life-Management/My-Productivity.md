@@ -1,4 +1,4 @@
-The goal is to reach world peace
+ The goal is to reach world peace
 
 To reach that, the goal is to create world peace solutions as fast as possible
 - Have it very clear what I'm doing currently towards these solutions

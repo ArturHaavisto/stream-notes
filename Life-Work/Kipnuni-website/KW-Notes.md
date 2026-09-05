@@ -1,5 +1,6 @@
 # tmp
 - I need a separate animation layer for changing the page
+- Use TipTap (ProseMirror)
 
 
 # Roadmap to MVP
@@ -67,6 +68,30 @@ The preview-page is supposed to show short versions of information about that pa
 ### (Game navigation)
 
 
+# Content
+Text
+- Have a summary text with some indication that you can expand it. When expanded, show a bigger text, but leave the summary texts bolded in the bigger text, so that the user can quickly see more detailed info of what they want. If the text cannot be easily summarized from the bigger text, have the summary sentences and points show on top of their detailed counterparts.
+Image stacks in preview modes.
+- Auto-rotation
+- Easy to manually browse
+- Expanded
+Content independent from any pages
+- Project preview can be shown in other pages without navigating to the project page
+Every content should be equal
+- Blogs
+- Projects
+- Posts/Updates
+- Should have:
+	- Type
+		- Can be certain colored border
+		- Example:
+			- Manually set and verified
+			- User post
+			- AI created
+	- Title
+	- Preview text
+	- Likes, Comments
+Make it possible for users to add a link to their posts where they sited the post/section
 
 # Random Ideas
 - Multiple languages

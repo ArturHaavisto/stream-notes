@@ -1,4 +1,0 @@
-- professor ha-joon chang exposes the system in 60 seconds
-- david shapiro: post labor economics
-- Tristan Harris: humane technologist
-- Lina Khan

@@ -1,0 +1,10 @@
+- Contemporary
+- utility
+- ratified
+- Intangible
+- estimation
+- neglected
+- residential area
+- proliferation
+- consolidate
+- heuristics
