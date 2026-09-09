@@ -23,4 +23,4 @@ This name represents all communication and collaboration solutions, not just a p
 	- When topics don't get new information or changes anymore quickly, there should be ways to kind of randomize or spark up new discussion so that people don't just accept that knowledge.
 	- A feature to get a notification when the information/topic has had new developments
 - Easy view to see and curate own interests. Multiple algorithms
-- 
+- Users have their own personalized views and notes and there is a way to compare those in general or on a specific topic with other users via an invite.

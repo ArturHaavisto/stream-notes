@@ -13,6 +13,9 @@
 - Keep the authentication in mind when deciding tech and code choices
 
 # Plan
+- Come up with different types of content/information
+- Do research what kind of technical solutions are out there that could be used
+- Create a technical solution without a proper backend
 - I want to host a functional version of the website with separate frontend, backend, and database
 	- At least have the same data that's there now and everything else can be "work in progress"
 - I want to create a workflow where I can quickly and easily add/remove/modify content on the website (create new stream notes (url, discussed topics, image,...))
