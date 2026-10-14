@@ -260,13 +260,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Life-Work/Youtube-Stream-notes/Stream 97.md",
+                    "file": "Life-Work/Youtube-Stream-notes/Stream 98.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Stream 97"
+                  "title": "Stream 98"
                 }
               },
               {
@@ -301,8 +301,7 @@
                   "title": "Todo"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical"
@@ -469,8 +468,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "d1ec147ab8469bee",
-      "mtime": "2026-09-09T16:18:54+03:00"
+      "active": "54f8802016d7af41",
+      "mtime": "2026-09-10T15:06:52+03:00"
     },
     "Chinese": {
       "main": {
