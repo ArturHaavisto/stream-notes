@@ -31,7 +31,7 @@
 			- Market these systems
 			- Lead and inspire teams building these systems
 - How do I get to my goal?
-	- Improve democracy in Europe or in Taiwan
+	- Improve democracy in Europe and in Taiwan first
 	- Create a portfolio of projects and ideas to my website
 		- Share them, get feedback/ideas/opportunities
 		- Start becoming more active socially
@@ -88,7 +88,20 @@
 	- Help improve the work environment
 	- 
 
-
+# Job options
+- IT helpdesk
+- Ops
+- Software Developer
+- Founder's Associate
+- Helping organization role
+	- Ops
+	- Marketing
+	- Developer
+- Communication/Collaboration platform
+- Meaningless, easy job?
+	- Cashier
+	- Warehouse
+	- 
 
 
 

@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54f8802016d7af41",
+            "id": "7d8182951c7a6a52",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 98.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 99.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 98"
+              "title": "Stream 99"
             }
           },
           {
@@ -68,8 +68,35 @@
               "icon": "lucide-file",
               "title": "Finding-work"
             }
+          },
+          {
+            "id": "fa9e0ec6a686546e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Life-Management/large-canvas.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "large-canvas.excalidraw"
+            }
+          },
+          {
+            "id": "8a174657d1decba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Jobs/Operations-Specialist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operations-Specialist"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,12 +263,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54f8802016d7af41",
+  "active": "4da6ae898a4aabac",
   "lastOpenFiles": [
+    "Life-Management/Vision.md",
+    "Business/Finding-work.md",
+    "Life-Management/large-canvas.excalidraw.md",
+    "Business/Jobs/Operations-Specialist.md",
+    "Business/Jobs/Multilingual service partner at CGI - Philippines.md",
+    "Business/Jobs/IT-specialist.md",
     "Life-Work/Youtube-Stream-notes/Stream 99.md",
     "Life-Work/Youtube-Stream-notes/Stream 98.md",
     "Life-Work/Youtube-Stream-notes/Stream 97.md",
-    "Business/Finding-work.md",
     "Life-Management/Todo.md",
     "Life-Management/Ajarak.md",
     "Life-Management/Self-Development.md",
@@ -251,8 +283,6 @@
     "Skills-and-Knowledge/Communication/Rednote.md",
     "Skills-and-Knowledge/Communication/Languages/Chinese.md",
     "Life-Work/Kipnuni-website/KW-Projects.md",
-    "Life-Management/large-canvas.excalidraw.md",
-    "Life-Management/Vision.md",
     "Excalidraw/Drawing 2026-09-09 18.39.20.excalidraw.md",
     "Excalidraw",
     "Life-Work/DemComPla/DemComPla-Notes.md",
@@ -263,9 +293,6 @@
     "Skills-and-Knowledge/Communication/Languages/Language-learning.md",
     "Skills-and-Knowledge/Communication/Languages/English.md",
     "Life-Work/Kipnuni-website/Now-page.md",
-    "Life-Work/Youtube-Stream-notes/Stream 96.md",
-    "Life-Work/Kipnuni-website/My-History.md",
-    "Life-Work/Kipnuni-website/Me-page.md",
     "Life-Work/Kipnuni-Technique/changing-feelings-method.pdf",
     "Skills-and-Knowledge/Video-Editing/Projects",
     "Skills-and-Knowledge/Video-Editing",
