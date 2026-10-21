@@ -1,2 +1,2 @@
 - Researching jobs
-- 
+- Considering dropping out of employment services to get pressure

@@ -1,0 +1,6 @@
+- Recap what I discussed last time
+- Explain what I get from removing the need to apply for meaningless jobs
+- Yapping about current mental developments
+- Life is a game
+- Develop kipnuni website
+- Thinking about life feeling light and not must inner resistant to fight change away from entertainment
