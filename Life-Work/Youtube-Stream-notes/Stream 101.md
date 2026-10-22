@@ -1,0 +1,4 @@
+- Talk about what my life will consist of
+- Use Kipnuni technique to not want to consume entertainment again
+- Do the same for porn, but outside of the stream
+- 
