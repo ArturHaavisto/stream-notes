@@ -4,13 +4,27 @@
 
 
 # Roadmap to MVP
-- Implement navigation (arrow+normal)
-- Initialize
-	- About
-	- Link
-	- My History
-	- My Future
-- Keep the authentication in mind when deciding tech and code choices
+- Online database
+- Backend
+- Admin login hidden
+- Admin login logic
+- Admin local version
+- Edit mode
+	- Add an element
+		- A textbox appears with a drop down list.
+		- Write it and it will be selected
+		- Appears where the mouse is (or at the center)
+	- The default mode is edit (put the content in (text/image))
+	- Move the element
+- Container
+	- Freeform editing with grid snapping
+- Element
+	- Types
+		- Title
+		- Text
+		- Images
+		- Icons
+	- Links
 
 # Plan
 - Come up with different types of content/information
@@ -116,3 +130,6 @@ Make it possible for users to add a link to their posts where they sited the pos
 - add swiping navigation as well
 	- swipe up or down on the side panel to move up or down
 - keep pressing the side or side buttons and they will expand to show their full texts instead of just icons. don't navigate or press that point though. set up a certain max press length for actually navigation/clicking. is this even possible?
+- In a large pannable project, have a way for users to see what they have already seen
+- Because the content is indexed, there can be a way to navigate the information by just going to the next item even if it wasn't right next to the current one
+- When changing elements, a way to have multiple options stored and rotated

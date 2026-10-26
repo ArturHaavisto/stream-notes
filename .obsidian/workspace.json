@@ -10,15 +10,17 @@
           {
             "id": "7d8182951c7a6a52",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Work/Youtube-Stream-notes/Stream 101.md",
+                "file": "Life-Work/Youtube-Stream-notes/Stream 102.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Stream 101"
+              "title": "Stream 102"
             }
           },
           {
@@ -262,13 +264,14 @@
   },
   "active": "7d8182951c7a6a52",
   "lastOpenFiles": [
-    "Life-Work/Youtube-Stream-notes/Stream 100.md",
-    "Life-Work/Youtube-Stream-notes/Stream 101.md",
-    "Business/Jobs/Operations-Specialist.md",
-    "Life-Work/Kipnuni-website/KW-drawing.md",
-    "Life-Work/Kipnuni-website/KW-canvas.canvas",
     "Life-Work/Kipnuni-website/KW-Notes.md",
+    "Life-Work/Kipnuni-website/KW-drawing.md",
     "Life-Work/Kipnuni-website/Now-page.md",
+    "Life-Work/Kipnuni-website/KW-canvas.canvas",
+    "Life-Work/Youtube-Stream-notes/Stream 102.md",
+    "Life-Work/Youtube-Stream-notes/Stream 101.md",
+    "Life-Work/Youtube-Stream-notes/Stream 100.md",
+    "Business/Jobs/Operations-Specialist.md",
     "Life-Work/Youtube-Stream-notes/Stream 97.md",
     "Life-Work/Youtube-Stream-notes/Stream 96.md",
     "Life-Work/Youtube-Stream-notes/Stream 99.md",
@@ -288,8 +291,6 @@
     "Excalidraw",
     "Life-Work/DemComPla/DemComPla-Notes.md",
     "Skills-and-Knowledge/Communication/Communication-plan.md",
-    "Skills-and-Knowledge/Communication/Social-Media.md",
-    "Skills-and-Knowledge/Communication/Communication-drawing.md",
     "Life-Work/Kipnuni-Technique/changing-feelings-method.pdf",
     "Skills-and-Knowledge/Video-Editing/Projects",
     "Skills-and-Knowledge/Video-Editing",

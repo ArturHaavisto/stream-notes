@@ -260,13 +260,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Life-Work/Youtube-Stream-notes/Stream 100.md",
+                    "file": "Life-Work/Youtube-Stream-notes/Stream 102.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Stream 100"
+                  "title": "Stream 102"
                 }
               },
               {
@@ -341,8 +341,7 @@
                   "title": "Operations-Specialist"
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "vertical"
@@ -509,8 +508,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "8a174657d1decba5",
-      "mtime": "2026-10-20T22:40:51+03:00"
+      "active": "7d8182951c7a6a52",
+      "mtime": "2026-10-25T22:36:31+02:00"
     },
     "Chinese": {
       "main": {

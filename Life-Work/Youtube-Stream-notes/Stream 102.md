@@ -1,0 +1,5 @@
+- Talk about how the developments have gone
+- Developing Kipnuni website
+- Talk about new feelings toward working
+- Economics talk
+- Talk about current control state and the current border of comfort zone
