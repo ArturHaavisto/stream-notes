@@ -1,0 +1,8 @@
+- Going through the following days after removing entertainment
+	- Music videos
+	- Learning Chinese
+- Talk about next steps
+	- Ajarak usage
+	- Should I apply for EAGx Berlin?
+	- Increasing brain's clock rate
+	- Allowing myself to get excited about work
