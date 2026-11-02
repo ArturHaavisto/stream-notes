@@ -1,0 +1,3 @@
+- Talk about my previous look on money on my journey
+- New look
+- Not going to EAGx Berlin
