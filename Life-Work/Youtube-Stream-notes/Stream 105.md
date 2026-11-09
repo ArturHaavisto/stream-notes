@@ -1,0 +1,7 @@
+- Removing self-created depression
+	- Feeling the removed entertainment
+	- Getting reminded of normal lives, not jealous or increased interest toward it, just a habit of feelings
+- Talk about developing ajarak usage for high complexity thinking processes
+- Removing depressive feeling and covering stuff I find in the way
+- Thinking about the vision and how to make it feel exciting for the first time
+- Finding always happiness from people even though I have doubted it
