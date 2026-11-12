@@ -1,0 +1,3 @@
+- Talk about Ajarak usage and progress so far
+- Talk about creating a strong mindset to manage my motivation once the plans change
+- Talk about my personality with others and whether I can change it
